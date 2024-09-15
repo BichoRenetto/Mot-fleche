@@ -1,4 +1,4 @@
-# Mots fléchés à la sauce Renetto
+# Mots fléchés à la sauce Renetto 🐲
 
 ## Comment télécharger les grilles vides ?
 Les grilles à compléter se trouvent dans le dossier **Grille** et sont numérotées selon leur ordre de parution (par exemple N1GrilleCouleur.pdf correspond à la première grille à compléter). Les fichiers sont des documents .pdf non éditables, je te conseille donc de les imprimer pour les remplir chez toi. 
@@ -12,3 +12,6 @@ Je n'ai pas encore implémenté de système pour vérifier un mot sans dévoiler
 
 ## Existe-t'il une liste des mots possibles ?
 Pour l'instant, je n'ai pas mis à disposition une liste des mots utilisés dans les grilles (mais peut-être un jour qui sait ?). Je me suis servi notamment de la base de données des mots du scrabble (http://www.3zsoftware.com/fr/listes.php) 
+
+## Templates TeX
+Les grilles ont été générées en LaTeX. Les fichiers sources sont disponibles dans le dossier LaTeX ainsi que la documentation. 
