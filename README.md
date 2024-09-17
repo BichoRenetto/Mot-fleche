@@ -22,3 +22,6 @@ Si vous le souhaitez, lorsque vous avez complété une grille avant la sortie de
 
 ### Templates TeX
 Les grilles ont été générées en LaTeX. Les fichiers sources sont disponibles dans le dossier LaTeX ainsi que la documentation. 
+
+### Projets amélioration
+Faire pdf éditable
