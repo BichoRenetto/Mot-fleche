@@ -1,10 +1,9 @@
 # Mots fléchés à la sauce Renetto 🐲
 
-Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des grilles faîtes maison, de qualité artisanale librement disponible à qui veut bien les remplir. Je fournis également les solutions qui sont publiées un à deux mois après la parution de la grille à compléter. M'inspirant du grand Jujubier ([sur Facebook](https://www.facebook.com/p/Les-mots-fl%C3%A9ch%C3%A9s-de-Jujubier-100078019182517/)), il se peut que certaines définitions se veulent un peu alambiquées, sinon *amusantes*. Pour différentier les définitions classiques de ces définitions au ton plus humoristique, je termine généralement ces dernières par des points de suspension.
+Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des grilles faîtes maison, de qualité artisanale librement disponible à qui veut bien les remplir. Je fournis également les solutions qui sont publiées un à deux mois après la parution de la grille à compléter. M'inspirant du grand Jujubier ([voici sa page Facebook](https://www.facebook.com/p/Les-mots-fl%C3%A9ch%C3%A9s-de-Jujubier-100078019182517/)), il se peut que certaines définitions se veulent un peu alambiquées, sinon *amusantes*. Pour différentier les définitions classiques de ces définitions au ton plus humoristique, je termine généralement ces dernières par des points de suspension.
 
 >[!IMPORTANT]
->La grille en cours est la grille numéro 1 !
-
+>La grille en cours est la grille numéro 1, la solution sera publiée courant octobre. Le premier tirage au sort devrait avoir lieu dans la foulée.
 
 # En bref 🦥
 
@@ -19,9 +18,15 @@ Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des gr
 # Version longue 🐸
 
 ### Comment télécharger les grilles vides ?
-Les grilles à compléter se trouvent dans le dossier **Grilles** et sont numérotées selon leur ordre de parution (par exemple `N1GrilleCouleur.pdf` correspond à la première grille à compléter). Les fichiers sont des documents `.pdf` non éditables (pour le moment), je te conseille donc de les imprimer pour les remplir chez toi. 
+Les grilles à compléter se trouvent dans le dossier **Grilles** et sont numérotées selon leur ordre de parution. Pour une même grille, je propose deux versions identiques en tout point sinon pour les couleurs de cases:
++ `NXGrilleCouleur.pdf` désigne la grille X colorée
++ `NXGrilleNoirBlanc.pdf` désigne la grille X au format noir & blanc.
 
-Pour l'instant, je n'ai fourni les .pdf que pour les grilles en couleur. Pour des considérations diverses, je peux comprendre que tu souhaites imprimer les grilles en noir et blanc. Je n'ai pas encore essayé d'imprimer les documents en noir et blanc et je ne garantie pas une impression optimale. Si tu souhaites que je fournisse des grilles en noir et blanc n'hésite pas à me le faire savoir en envoyant un mail avec pour titre `FEEDBACK::NOIR&BLANC` à l'adresse suivante `motflechetroprigolo[at]gmail[dot]com`
+Les fichiers `.pdf` ne sont pour l'instant pas éditables directement sur vos lecteurs préférés. Je vous conseille donc d'imprimer les grilles de votre côté. 
+
+>[!WARNING]
+>Je n'ai pour l'instant pas encore testé l'impression des grilles, n'hésitez pas à me faire savoir si vous rencontrez des problèmes d'impression.
+
 
 ### Où trouver les solutions ?
 Les solutions seront ajoutées en général 1 à 2 mois après le dépôt des grilles vides. 
@@ -34,15 +39,12 @@ Pour l'instant, je me fixe de publier une nouvelle grille tous les mois voir tou
 
 
 ### Loterie 
-Si vous le souhaitez, lorsque vous avez complété une grille avant la sortie de la solution, vous pouvez envoyer un mail à `motflechetroprigolo[at]gmail[dot]com` pour tenter de gagner un petit truc. Pour ce faire, il suffit d'envoyer un mail avec pour sujet `NX-*****-~~~~~` avec `X` le numéro de la grille et `*****` le mot mystère et `~~~~~` le thème mystère dans l'evntualité où il se serait également glissé dans la grille. Par exemple `N5-POIREAU-PEINTURE` pour la grille 5 dont le mot mystère est **POIREAU** et le thème mystère réfère à la **PEINTURE**.
+Si vous le souhaitez, lorsque vous avez complété une grille avant la parution de la solution, vous pouvez envoyer un mail à `motflechetroprigolo[at]gmail[dot]com` pour tenter de gagner un petit truc. Pour ce faire, il suffit d'envoyer un mail avec pour sujet `NX-*****-~~~~~` avec `X` le numéro de la grille et `*****` le mot mystère et `~~~~~` le thème mystère dans l'evntualité où il se serait également glissé dans la grille. Par exemple `N5-POIREAU-PEINTURE` pour la grille 5 dont le mot mystère est **POIREAU** et le thème mystère réfère à la **PEINTURE**.
 
-# Divers
+# Pour les plus filous d'entre vous 🦨
 
 ### Templates TeX
 Les grilles ont été générées en LaTeX. Les fichiers sources sont disponibles dans le dossier LaTeX ainsi que la documentation. 
-
-### Projets amélioration
-Faire pdf éditable
 
 ### Existe-t'il une liste des mots possibles ?
 
@@ -52,5 +54,10 @@ Pour l'instant, je n'ai pas mis à disposition une liste des mots utilisés dans
 
 # Contact 🐧
 📫 `motflechetroprigolo[at]gmail[dot]com`
-🗑️ Merci d'ajouter la mention `FEEDBACK` en sujet de vos mails pour tout retours/remarques constructives (ou non).
-🪤 Pour tenter de gagner un petit quelque chose, merci d'envoyer vos solutions sous la forme `NX-*****-αβγδε` pour pouvoir être tiré au sort.
+
+🗑️ Merci d'ajouter la mention **FEEDBACK** en sujet de vos mails pour tout retours/remarques constructives (ou non).
+
+🪤 Pour tenter de gagner un petit quelque chose, merci d'envoyer vos solutions avec un sujet de la forme **NX-<sup>12345</sup>** (grille X sans thème mystère) ou **NX-<sup>12345</sup>-αβγδε** (grille X avec un thème mystère) pour pouvoir être tiré au sort.
+
+㊙️ Libre à toi de diffuser ce dépôt à toute personne intéressée par les mots fléchés ! Néanmoins, sache qu'il n'y aura pas de bonus accordés aux parrainages.
+
