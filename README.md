@@ -10,10 +10,15 @@ Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des gr
 + Les grilles vides sont téléchargeables au format `.pdf` dans le dossier **Grilles**. Elles sont numérotés par ordre de parution.
 + Les solutions sont uploadées dans le dossier **Solutions**. Elle sont également numérotés par ordre de parution.
 + Avant la sortie des solutions tente de gagner un petit quelque chose en envoyant le mot mystère (et le thème mystère le cas échéant) à `motflechetroprigolo[at]gmail[dot]com`. Attention à bien respecter les consignes ([voir plus bas](#loterie)).
-+ Petit point lexique :
-  - **Mot mystère** : Mot bonus à trouver en s'aidant des petits chiffres dans la grille.
-  - **Thème mystère** : Thème commun à plusieurs définitions de la grille.
 + Pour tout commentaire/remarque/contestation/injure, merci d'envoyer directement un mail à `motflechetroprigolo[at]gmail[dot]com` avec en sujet la mention `FEEDBACK`.
+
+# Point lexique 🦆
+
+- **Grille** :
+- **Définition** :
+- **Mot mystère** : Mot bonus à trouver en s'aidant des petits chiffres dans la grille.
+- **Thème mystère** : Thème commun à plusieurs définitions de la grille.
+
 
 # Version longue 🐸
 
