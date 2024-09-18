@@ -24,12 +24,13 @@ Les grilles à compléter se trouvent dans le dossier **Grilles** et sont numér
 
 Les fichiers `.pdf` ne sont pour l'instant pas éditables directement sur vos lecteurs préférés. Je vous conseille donc d'imprimer les grilles de votre côté. 
 
->[!WARNING]
->Je n'ai pour l'instant pas encore testé l'impression des grilles, n'hésitez pas à me faire savoir si vous rencontrez des problèmes d'impression.
+>[!CAUTION]
+>Je n'ai pour l'instant pas encore eu l'occasion de tester l'impression des grilles, n'hésitez pas à me faire savoir si vous rencontrez des problèmes lors de l'impression et en particulier si je dois corriger des points de la mise en page pour améliorer ou y remédier.
 
 
 ### Où trouver les solutions ?
 Les solutions seront ajoutées en général 1 à 2 mois après le dépôt des grilles vides. 
+
 >[!WARNING]
 >Je n'ai pas encore implémenté de système pour vérifier un mot sans dévoiler les autres, donc ces grilles de solutions sont évidemment très divulgâchantes !
 
@@ -39,7 +40,10 @@ Pour l'instant, je me fixe de publier une nouvelle grille tous les mois voir tou
 
 
 ### Loterie 
-Si vous le souhaitez, lorsque vous avez complété une grille avant la parution de la solution, vous pouvez envoyer un mail à `motflechetroprigolo[at]gmail[dot]com` pour tenter de gagner un petit truc. Pour ce faire, il suffit d'envoyer un mail avec pour sujet `NX-*****-~~~~~` avec `X` le numéro de la grille et `*****` le mot mystère et `~~~~~` le thème mystère dans l'evntualité où il se serait également glissé dans la grille. Par exemple `N5-POIREAU-PEINTURE` pour la grille 5 dont le mot mystère est **POIREAU** et le thème mystère réfère à la **PEINTURE**.
+Si vous le souhaitez, lorsque vous avez complété une grille avant la parution de la solution, vous pouvez envoyer un mail à `motflechetroprigolo[at]gmail[dot]com` pour tenter de gagner un petit truc. Pour ce faire, il suffit d'envoyer un mail avec pour sujet `NX-*****-~~~~~` avec `X` le numéro de la grille et `*****` le mot mystère et `~~~~~` le thème mystère dans l'evntualité où il se serait également glissé dans la grille. 
+
+
+Par exemple `N5-POIREAU-PEINTURE` pour la grille 5 dont le mot mystère est **POIREAU** et le thème mystère réfère à la **PEINTURE**.
 
 # Pour les plus filous d'entre vous 🦨
 
@@ -57,7 +61,7 @@ Pour l'instant, je n'ai pas mis à disposition une liste des mots utilisés dans
 
 🗑️ Merci d'ajouter la mention **FEEDBACK** en sujet de vos mails pour tout retours/remarques constructives (ou non).
 
-🪤 Pour tenter de gagner un petit quelque chose, merci d'envoyer vos solutions avec un sujet de la forme **NX-<sup>12345</sup>** (grille X sans thème mystère) ou **NX-<sup>12345</sup>-αβγδε** (grille X avec un thème mystère) pour pouvoir être tiré au sort.
+🪤 Pour tenter de gagner un petit quelque chose, merci d'envoyer vos solutions avec un sujet de la forme **NX-<sup>12345</sup>** ou **NX-<sup>12345</sup>-αβγδε** pour pouvoir être tiré au sort ([cf loterie](#loterie).
 
 ㊙️ Libre à toi de diffuser ce dépôt à toute personne intéressée par les mots fléchés ! Néanmoins, sache qu'il n'y aura pas de bonus accordés aux parrainages.
 
