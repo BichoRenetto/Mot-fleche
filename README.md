@@ -66,7 +66,7 @@ Le bon déroulement du tirage est sort sera assuré par :technologist: Thomas B�
 
 ### Have fun with the TeX templates
 
-Pour tous mes afficionados de LaTeX (no kink shaming), j'ai mis le template pour la première grille dans le dossier **TEX**. Vous pouvez évidemment le récupérez et vous amusez chez vous à générer de nouvelles grilles. Les codes ont été générées par votre humble serviteur en collaboration avec mon bon ami chatGPT 🤖. 
+Pour tous mes afficionados de LaTeX (no kink shaming), j'ai mis le template pour la première grille dans le dossier **TEX**. Vous pouvez évidemment le récupérez et vous amusez chez vous à générer de nouvelles grilles. Les codes ont été générées par votre humble serviteur en collaboration avec mon bon ami chatGPT 🪄. 
 
 **AJOUTEZ LICENSE CREATIVE**
 
