@@ -53,9 +53,9 @@ Si vous le souhaitez, lorsque vous avez complété une grille avant la parution 
 + M'envoyer un mail à l'adresse `motflechetroprigolo[at]gmail[dot]com`.
 + Préciser en sujet du mail votre réponse en respectant la structure suivante :
    1) Le numéro de la grille sous la forme :arrow_right: **NX**
-   2) Suivi de votre réponse au mot mystère :arrow_right: **NX-<sup>12345</sup>**
-   3) *Le cas échéant* suivi de votre réponse au thème mystère :arrow_right: **NX-<sup>12345</sup>-αβγδε**
-   4) Par exemple pour la grille 5 dont le mot mystère est **POIREAU** et le thème mystère réfère au **JARDINAGE** ➡️ envoyer **N5-POIREAU-JARDINAGE**
+   2) Suivi de votre réponse au mot mystère :arrow_right: **NX-ABCDE**
+   3) *Le cas échéant* suivi de votre réponse au thème mystère :arrow_right: **NX-ABCDE-ZYXWV**
+   4) Par exemple pour la grille **5** dont le mot mystère est **POIREAU** et le thème mystère réfère au **JARDINAGE** ➡️ envoyer **N5-POIREAU-JARDINAGE**
 + Vous pouvez écrire ce que vous voulez dans le corps du mail, ce ne sera a priori pas pris en compte (mais peut-être lu si rigolo).
 
 Gagnant + chances de gagner
