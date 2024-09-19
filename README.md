@@ -18,7 +18,7 @@ Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des gr
 + Explications mot mystère/
 + Loterie
 + [Coin geek](#skunk-pour-les-plus-filous-dentre-vous)
-+ [Contact](#contact)
++ [Contact](#-contact)
 
 # 🦆 Point lexique
 
