@@ -31,22 +31,21 @@ Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des gr
 
 ### Comment télécharger les grilles vides ?
 Les grilles à compléter se trouvent dans le dossier **Grilles** et sont numérotées selon leur ordre de parution. Pour une même grille, je propose deux versions identiques en tout point sinon pour les couleurs de cases:
-+ `NXGrilleCouleur.pdf` désigne la grille X colorée
++ `NXGrilleCouleur.pdf` désigne la grille X en couleur.
 + `NXGrilleNoirBlanc.pdf` désigne la grille X au format noir & blanc.
 
-Les fichiers `.pdf` ne sont pour l'instant pas éditables directement sur vos lecteurs préférés. Je vous conseille donc d'imprimer les grilles de votre côté. 
+Les fichiers `.pdf` ne sont pour l'instant pas éditables directement sur vos lecteurs préférés. Je vous conseille donc d'imprimer les grilles de votre côté.
 
->[!CAUTION]
->Je n'ai pour l'instant pas encore eu l'occasion de tester l'impression des grilles, n'hésitez pas à me faire savoir si vous rencontrez des problèmes lors de l'impression et en particulier si je dois corriger des points de la mise en page pour améliorer ou y remédier.
+⚠️**DISCLAIMER**⚠️ Je n'ai pas encore eu l'occasion de tester l'impression des grilles que ce soit au format couleur ou noir & blanc. Si tu rencontres des difficultés d'impression liées à la mise en page ou au choix des couleurs, n'hésite pas à me le faire savoir que je vois si je peux y remédier.
 
 
 ### Où trouver les solutions ?
 Les solutions seront ajoutées en général 1 à 2 mois après le dépôt des grilles vides. 
 
->[!WARNING]
+>[!CAUTION]
 >Je n'ai pas encore implémenté de système pour vérifier un mot sans dévoiler les autres, donc ces grilles de solutions sont évidemment très divulgâchantes !
 
-### À quelle fréquence seront publiés les nouvelles grilles ?
+### À quelle fréquence seront publiées les nouvelles grilles ?
 
 Pour l'instant, je me fixe de publier une nouvelle grille tous les mois voir tous les deux mois. Il se peut qu'à l'avenir le rythme de publication varie selon les aléas de mes disponibilités. Dans tous les cas, si vous trouvez que les grilles mettent trop de temps à sortir, vous savez où me contacter !
 
