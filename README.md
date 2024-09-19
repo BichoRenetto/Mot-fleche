@@ -17,8 +17,8 @@ Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des gr
 # Sommaire rapide
 + Explications mot mystère/
 + Loterie
-+ [Coin geek](#skunk-pour-les-plus-filous-d-entre-vous)
-+ [Contact](#penguin-contact)
++ [Coin geek](#skunk-pour-les-plus-filous-dentre-vous)
++ [Contact](#contact)
 
 # 🦆 Point lexique
 
