@@ -37,7 +37,7 @@ Les solutions seront ajoutées en général 1 à 2 mois après la parution des g
 
 Dans l'éventualité où tu serais bloqué·e durant la complétion de ta grille de mot fléché et que tu souhaites vérifier tes propositions actuelles, je n'ai pour l'instant rien à te proposer pour apaiser ton mal-être. Je n'ai pas encore eu le temps d'implémenter une interface qui te permettrait de révéler certaines réponses sans dévoiler l'intégralité de la grille. Mais j'y ~~travaille~~ réfléchit !
 
-En attendant, si tu es bloqué·e, n'hésite pas à m'envoyer un mail avec en sujet la mention **HELP** ou à lancer un sujet dans la rubrique 
+En attendant, si tu es bloqué·e, n'hésite pas à m'envoyer un mail avec en sujet la mention **HELP** ou à lancer un nouveau sujet de discussion.
 
 ### À quelle fréquence seront publiées les nouvelles grilles ?
 
