@@ -66,7 +66,7 @@ Le bon déroulement du tirage est sort sera assuré par :technologist: Thomas B�
 
 ### Have fun with the TeX templates
 
-Pour tous mes afficionados de LaTeX (no kink shaming), j'ai mis le template pour la première grille dans le dossier **TEX**. Vous pouvez évidemment le récupérez et vous amusez chez vous à générer de nouvelles grilles. Les codes ont été générées par votre humble serviteur en collaboration avec mon bon ami chatGPT. 
+Pour tous mes afficionados de LaTeX (no kink shaming), j'ai mis le template pour la première grille dans le dossier **TEX**. Vous pouvez évidemment le récupérez et vous amusez chez vous à générer de nouvelles grilles. Les codes ont été générées par votre humble serviteur en collaboration avec mon bon ami chatGPT 🤖. 
 
 **AJOUTEZ LICENSE CREATIVE**
 
@@ -87,7 +87,7 @@ Pas de stockage ni diffusion de vos adresses mails.
 
 🗑️ Merci d'ajouter la mention **FEEDBACK** en sujet de vos mails pour tout retours/remarques constructives (ou non).
 
-🪤 Pour tenter de gagner un petit quelque chose, merci d'envoyer vos solutions avec un sujet de la forme **NX-<sup>12345</sup>** ou **NX-<sup>12345</sup>-αβγδε** pour pouvoir être tiré au sort ([cf loterie](#loterie)).
+🪤 Pour tenter de gagner un petit quelque chose, n'oubliez pas de m'envoyer vos réponses pour participer au tirage au sort ([cf plus haut](#loterie)).
 
 ㊙️ Libre à toi de diffuser ce dépôt à toute personne intéressée par les mots fléchés ! Néanmoins, sache qu'il n'y aura pas de bonus accordés aux parrainages.
 
