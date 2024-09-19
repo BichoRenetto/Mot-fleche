@@ -1,11 +1,11 @@
-# Mots fléchés à la sauce Renetto 🐲
+# 🐲 Mots fléchés à la sauce Renetto
 
 Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des grilles faîtes maison, de qualité artisanale librement disponible à qui veut bien les remplir. Je fournis également les solutions qui sont publiées un à deux mois après la parution de la grille à compléter. M'inspirant du grand Jujubier ([sa page Facebook pour les plus curieux d'entre vous](https://www.facebook.com/p/Les-mots-fl%C3%A9ch%C3%A9s-de-Jujubier-100078019182517/)), il se peut que certaines définitions se veulent un peu alambiquées, sinon *amusantes*. Pour différentier les définitions classiques de ces définitions au ton plus humoristique, je termine généralement ces dernières par des points de suspension.
 
 >[!NOTE]
 > La grille en cours est la numéro 1 (solution & loterie seront publiées courant Octobre)
 
-# En bref 🦥
+# 🦥 En bref
 
 + Les grilles vides sont téléchargeables au format `.pdf` dans le dossier ***GRILLES***. 
    - Vous avez le choix entre les formats 🌈 **COULEUR** 🌈 ou  🦃 **NOIR & BLANC** 🐓 selon vos préférences d'impression.
@@ -17,9 +17,10 @@ Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des gr
 # Sommaire rapide
 + Explications mot mystère/
 + Loterie
-+ [Contact](#contact-penguin)
++ [Coin geek](#skunk-pour-les-plus-filous-d-entre-vous)
++ [Contact](#penguin-contact)
 
-# Point lexique 🦆
+# 🦆 Point lexique
 
 - **Grille** : Quadrillage vide sinon pour les cases contenant les définitions.
 - **Définition** : Case de la grille contenant des mots ou courtes phrases pour deviner les mots
@@ -27,7 +28,7 @@ Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des gr
 - **Thème mystère** : Thème commun au mot mystère et à plusieurs définitions de la grille.
 
 
-# Version longue 🐸
+# 🐸 Version longue
 
 ### Comment télécharger les grilles vides ?
 Les grilles à compléter se trouvent dans le dossier **Grilles** et sont numérotées selon leur ordre de parution. Pour une même grille, je propose deux versions identiques en tout point sinon pour les couleurs de cases:
@@ -69,7 +70,7 @@ Gagnant + chances de gagner
 
 Le bon déroulement du tirage est sort sera assuré par :technologist: Thomas BÉNÉTEAU à l'intégrité infaillible (jusqu'à preuve du contraire).
 
-# Pour les plus filous d'entre vous 🦨
+# :skunk: Pour les plus filous d'entre vous
 
 ### Templates TeX
 Les grilles ont été générées en LaTeX. Les fichiers sources sont disponibles dans le dossier LaTeX ainsi que la documentation. 
@@ -80,7 +81,11 @@ A priori, l'ensemble des mots de la langue française sont possibles. Il se peut
 
 Pour l'instant, je n'ai pas mis à disposition une liste des mots utilisés dans les grilles (mais peut-être un jour qui sait ?). Je me suis servi notamment de la base de données des mots du scrabble (http://www.3zsoftware.com/fr/listes.php) 
 
-# Contact 🐧
+### Stockage d'adresse mail
+
+Pas de stockage ni diffusion de vos adresses mails.
+
+# 🐧 Contact
 📫 `motflechetroprigolo[at]gmail[dot]com`
 
 🗑️ Merci d'ajouter la mention **FEEDBACK** en sujet de vos mails pour tout retours/remarques constructives (ou non).
