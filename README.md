@@ -3,7 +3,7 @@
 Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des grilles faîtes maison, de qualité artisanale librement disponible à qui veut bien les remplir. Je fournis également les solutions qui sont publiées un à deux mois après la parution de la grille à compléter. M'inspirant du grand Jujubier ([sa page Facebook pour les plus curieux d'entre vous](https://www.facebook.com/p/Les-mots-fl%C3%A9ch%C3%A9s-de-Jujubier-100078019182517/)), il se peut que certaines définitions se veulent un peu alambiquées, sinon *amusantes*. Pour différentier les définitions classiques de ces définitions au ton plus humoristique, je termine généralement ces dernières par des points de suspension.
 
 >[!NOTE]
-> La grille en cours est la grille numéro 1 (solution & loterie courant octobre)
+> La grille en cours est la numéro 1 (solution & loterie seront publiées courant Octobre)
 
 # En bref 🦥
 
