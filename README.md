@@ -11,8 +11,8 @@ Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des gr
    - Vous avez le choix entre les formats 🌈 **COULEUR** 🌈 ou  🦃 **NOIR & BLANC** 🐓 selon vos préférences d'impression.
    - Les grilles sont nommées et numérotées par ordre de parution.
 + Les solutions sont uploadées dans le dossier ***SOLUTIONS*** un à deux mois après la publication de la grille. Elle suivent la même numérotation.
-+ Avant la sortie des solutions, tente de gagner un petit quelque chose en m'envoyant ta réponse à `motflechetroprigolo[at]gmail[dot]com`. Merci de bien respecter les consignes d'envoi ([voir plus bas](#loterie)).
-+ Pour tout commentaire/remarque/contestation/injure/compliment, merci d'envoyer vos doléances directement par mail à `motflechetroprigolo[at]gmail[dot]com` avec en sujet la mention **FEEDBACK**.
++ Avant la sortie des solutions, tente de gagner un petit quelque chose en m'envoyant ta réponse par [mail](#-contact). Merci de bien respecter les consignes d'envoi ([voir plus bas](#loterie)).
++ Pour tout commentaire/remarque/contestation/injure/compliment, merci d'envoyer vos doléances directement par [mail](#-contact) avec en sujet la mention **FEEDBACK**.
 
 # :shark: Sommaire rapide
 + Mot mystère et tirage au sort
@@ -66,7 +66,7 @@ Le bon déroulement du tirage est sort sera assuré par :technologist: Thomas B�
 
 ### Have fun with the TeX templates
 
-Pour tous mes afficionados de LaTeX (no kink shaming), j'ai mis le template pour la première grille dans le dossier **TEX**. Vous pouvez évidemment le récupérez et vous amusez chez vous à générer de nouvelles grilles. Les codes ont été générées par votre humble serviteur en collaboration avec mon bon ami chatGPT 🪄. 
+Pour tous mes afficionados de LaTeX (no kink shaming), j'ai mis le template pour la première grille dans le dossier **TEX**. Vous pouvez évidemment le récupérez et vous amusez chez vous à générer de nouvelles grilles. Les codes ont été générées par votre humble serviteur en collaboration avec mon bon ami chatGPT 🪄.
 
 **AJOUTEZ LICENSE CREATIVE**
 
@@ -76,18 +76,15 @@ Pour faire court : **non**. Ou du moins pas pour l'instant. Je n'ai pas encore g
 + L'ensemble du corpus de la langue française est possible (en particulier, j'ai utilisé la [base de données](http://www.3zsoftware.com/fr/listes.php) contenant l'ensemble des mots admissibles dans les règles du scrabble français).
 + Les acronymes seront couramment utilisés.
 + On trouvera régulièrement des mots anglais, espagnols, ou du moins de langue latine.
-+ Dans certains cas, il est possible que la réponse ne soit pas à proprement parlé un mot ou un acronyme ou une onomatopée. Ne vous étonnez pas si vous vous retrouvez à des réponses incongrues du type *nte* ou *apou* dans vos grilles.
++ Dans certains cas, il est possible que la réponse ne soit pas à proprement parlé un mot ou un acronyme ou une onomatopée. Ne vous étonnez pas si vous vous retrouvez à écrire des réponses incongrues du type *nte* ou *apou*, cela peut être tout à fait normal.
 
-### Stockage d'adresse mail
-
-Pas de stockage ni diffusion de vos adresses mails.
 
 # 🐧 Contact
 📫 `motflechetroprigolo[at]gmail[dot]com`
 
-🗑️ Merci d'ajouter la mention **FEEDBACK** en sujet de vos mails pour tout retours/remarques constructives (ou non).
+🗑️ Merci d'ajouter la mention **FEEDBACK** en sujet de vos mails pour tout commentaire (constructif ou non).
 
 🪤 Pour tenter de gagner un petit quelque chose, n'oubliez pas de m'envoyer vos réponses pour participer au tirage au sort ([cf plus haut](#loterie)).
 
-㊙️ Libre à toi de diffuser ce dépôt à toute personne intéressée par les mots fléchés ! Néanmoins, sache qu'il n'y aura pas de bonus accordés aux parrainages.
+㊙️ Libre à toi de diffuser ce dépôt à toute personne intéressée par les mots fléchés ! Néanmoins, sache qu'il n'y aura pas de bonus accordés aux parrainages réussis, sinon ma gratitude.
 
