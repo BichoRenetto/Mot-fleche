@@ -22,9 +22,9 @@ Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des gr
 # 🐸 Version longue
 
 ### Comment télécharger les grilles vides ?
-Les grilles à compléter se trouvent dans le dossier **GRILLES** et sont numérotées par ordre de parution. Pour une même grille, je propose deux versions identiques en tout point sinon pour la coloration des cases vides. Elles sont stockées dans les sous dossiers **GRILLES/COULEURS** et **GRILLES/NOIRBLANC**.
+Les grilles à compléter se trouvent dans le dossier **GRILLES** et sont numérotées par ordre de parution. Pour une même grille, je propose deux versions identiques en tout point, sinon pour la coloration des cases vides. Elles sont stockées dans les sous dossiers **GRILLES/COULEURS** et **GRILLES/NOIRBLANC**.
 
-Dans tous les deux cas, les grilles sont fournies en fichier `.pdf` **non-éditables**, du moins pour le moment. Je vous conseille donc d'imprimer les grilles de votre côté.
+Dans tous les deux cas, les grilles sont fournies sous forme de fichiers `.pdf` **non-éditables**, du moins pour le moment. Je vous conseille donc d'imprimer les grilles de votre côté.
 
 ⚠️**DISCLAIMER**⚠️ Je n'ai pas encore eu l'occasion de tester l'impression des grilles que ce soit au format couleur ou noir & blanc. Si tu rencontres des difficultés d'impression liées à la mise en page, au choix des couleurs de fond ou pour tout autre raison, n'hésite pas à me le faire savoir pour que je puisse y remédier.
 
@@ -35,13 +35,13 @@ Les solutions seront ajoutées en général 1 à 2 mois après la parution des g
 
 ### Comment faire si je suis bloqué·e ?
 
-Dans l'éventualité où tu serais bloqué·e durant la complétion de ta grille de mot fléché et que tu souhaites vérifier tes propositions actuelles, je n'ai pour l'instant rien à te proposer pour apaiser ton mal-être. Je n'ai pas encore eu le temps d'implémenter une interface qui te permettrait de révéler certaines réponses sans dévoiler l'intégralité de la grille. Mais j'y ~~travaille~~ réfléchit !
+Dans l'éventualité où tu serais bloqué·e durant la complétion de ta grille et que tu souhaites vérifier tes propositions actuelles, je n'ai rien de spécial à te proposer pour apaiser ton mal-être sinon cette photo de [boxer](https://cdn.prod.website-files.com/62178d5c536d9151904f4361/632c606cb8d59694b04b874d_Races-Boxer_uvnxcj.jpg). Je n'ai pas encore eu le temps d'implémenter une interface qui te permettrait de révéler certaines réponses sans dévoiler l'intégralité de la grille et tout divulgâcher 😿. Mais j'y ~~travaille dur~~ réfléchit !
 
-En attendant, si tu es bloqué·e, n'hésite pas à m'envoyer un mail avec en sujet la mention **HELP** ou à lancer un nouveau sujet de discussion.
+En attendant, si tu es bloqué·e, n'hésite pas à m'envoyer un mail avec en sujet la mention **HELP** ou à lancer un nouveau sujet de discussion directement sur la page github, peut-être quelqu'un de la commu volera à ta rescousse !
 
 ### À quelle fréquence seront publiées les nouvelles grilles ?
 
-Pour l'instant, je me fixe de publier une nouvelle grille tous les mois voir tous les deux mois. Il se peut qu'à l'avenir le rythme de publication varie selon les aléas de mes disponibilités. Dans tous les cas, si vous trouvez que les grilles mettent trop de temps à sortir, vous savez où me contacter !
+Pour l'instant, je me suis fixé une échéance de publication de nouvelles grilles mensuelle ou bimestrielle. Il se peut qu'à l'avenir le rythme de publication varie selon les aléas de mes disponibilités. Dans tous les cas, si vous trouvez que les grilles mettent trop de temps à sortir, vous savez où me contacter !
 
 ### Mystère ~~et boule de gomme~~ et tirage au sort
 
@@ -64,14 +64,19 @@ Le bon déroulement du tirage est sort sera assuré par :technologist: Thomas B�
 
 # :skunk: Pour les plus filous d'entre vous
 
-### Templates TeX
-Les grilles ont été générées en LaTeX. Les fichiers sources sont disponibles dans le dossier TeX ainsi que la documentation. 
+### Have fun with the TeX templates
 
-### Existe-t'il une liste des mots possibles ?
+Pour tous mes afficionados de LaTeX (no kink shaming), j'ai mis le template pour la première grille dans le dossier **TEX**. Vous pouvez évidemment le récupérez et vous amusez chez vous à générer de nouvelles grilles. Les codes ont été générées par votre humble serviteur en collaboration avec mon bon ami chatGPT. 
 
-A priori, l'ensemble des mots de la langue française sont possibles. Il se peut que certains mots anglais ou inventés fassent leur apparition dans la grille.
+**AJOUTEZ LICENSE CREATIVE**
 
-Pour l'instant, je n'ai pas mis à disposition une liste des mots utilisés dans les grilles (mais peut-être un jour qui sait ?). Je me suis servi notamment de la base de données des mots du scrabble (http://www.3zsoftware.com/fr/listes.php) 
+### Est-t'il possible de connaître la liste des mots admissibles ?
+
+Pour faire court : **non**. Ou du moins pas pour l'instant. Je n'ai pas encore généré assez de grilles pour proposer un index des mots utilisés qui ne dévoilent pas entièrement les réponses. Cependant, je peux vous révéler certains points:
++ L'ensemble du corpus de la langue française est possible (en particulier, j'ai utilisé la [base de données](http://www.3zsoftware.com/fr/listes.php) contenant l'ensemble des mots admissibles dans les règles du scrabble français).
++ Les acronymes seront couramment utilisés.
++ On trouvera régulièrement des mots anglais, espagnols, ou du moins de langue latine.
++ Dans certains cas, il est possible que la réponse ne soit pas à proprement parlé un mot ou un acronyme ou une onomatopée. Ne vous étonnez pas si vous vous retrouvez à des réponses incongrues du type *nte* ou *apou* dans vos grilles.
 
 ### Stockage d'adresse mail
 
