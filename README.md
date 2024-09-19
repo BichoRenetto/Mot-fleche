@@ -7,17 +7,19 @@ Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des gr
 
 # En bref 🦥
 
-+ Les grilles vides sont téléchargeables au format `.pdf` dans le dossier **Grilles**. Elles sont numérotés par ordre de parution.
-+ Les solutions sont uploadées dans le dossier **Solutions**. Elle sont également numérotés par ordre de parution.
-+ Avant la sortie des solutions tente de gagner un petit quelque chose en envoyant le mot mystère (et le thème mystère le cas échéant) à `motflechetroprigolo[at]gmail[dot]com`. Attention à bien respecter les consignes ([voir plus bas](#loterie)).
-+ Pour tout commentaire/remarque/contestation/injure, merci d'envoyer directement un mail à `motflechetroprigolo[at]gmail[dot]com` avec en sujet la mention `FEEDBACK`.
++ Les grilles vides sont téléchargeables au format `.pdf` dans le dossier ***GRILLES***. 
+   - Vous avez le choix entre les formats 🌈 **COULEUR** 🌈 ou  🦃 **NOIR & BLANC** 🐓 selon vos préférences d'impression.
+   - Les grilles sont nommées et numérotées par ordre de parution.
++ Les solutions sont uploadées dans le dossier ***SOLUTIONS*** un à deux mois après la publication de la grille. Elle sont également numérotées par ordre de parution.
++ Avant la sortie des solutions, tente de gagner un petit quelque chose en envoyant le mot mystère (et le thème mystère le cas échéant) à `motflechetroprigolo[at]gmail[dot]com`. Merci de bien respecter les consignes ([voir plus bas](#loterie)).
++ Pour tout commentaire/remarque/contestation/injure/compliment, merci d'envoyer vos réclamations directement par mail à `motflechetroprigolo[at]gmail[dot]com` avec en sujet la mention **FEEDBACK**.
 
 # Point lexique 🦆
 
-- **Grille** :
-- **Définition** :
+- **Grille** : Quadrillage vide sinon pour les cases contenant les définitions.
+- **Définition** : Case de la grille contenant des mots ou courtes phrases pour deviner les mots
 - **Mot mystère** : Mot bonus à trouver en s'aidant des petits chiffres dans la grille.
-- **Thème mystère** : Thème commun à plusieurs définitions de la grille.
+- **Thème mystère** : Thème commun au mot mystère et à plusieurs définitions de la grille.
 
 
 # Version longue 🐸
@@ -43,6 +45,9 @@ Les solutions seront ajoutées en général 1 à 2 mois après le dépôt des gr
 
 Pour l'instant, je me fixe de publier une nouvelle grille tous les mois voir tous les deux mois. Il se peut qu'à l'avenir le rythme de publication varie selon les aléas de mes disponibilités. Dans tous les cas, si vous trouvez que les grilles mettent trop de temps à sortir, vous savez où me contacter !
 
+### Mot mystère et thème mystère
+
+Pour l'instant le nombre de défintions liées au thème mystère n'est pas précisé dans les grilles. Si à l'avenir vous trouvez dur de trouver le thème mystère je peux préciser ce nombre sur les grilles. Dans tous les cas, vous pouvez me tenir au courant via les **FEEDBACK** par mail.
 
 ### Loterie 
 Si vous le souhaitez, lorsque vous avez complété une grille avant la parution de la solution, vous pouvez envoyer un mail à `motflechetroprigolo[at]gmail[dot]com` pour tenter de gagner un petit truc. Pour ce faire, il suffit d'envoyer un mail avec pour sujet `NX-*****-~~~~~` avec `X` le numéro de la grille et `*****` le mot mystère et `~~~~~` le thème mystère dans l'evntualité où il se serait également glissé dans la grille. 
