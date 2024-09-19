@@ -10,8 +10,8 @@ Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des gr
 + Les grilles vides sont téléchargeables au format `.pdf` dans le dossier ***GRILLES***. 
    - Vous avez le choix entre les formats 🌈 **COULEUR** 🌈 ou  🦃 **NOIR & BLANC** 🐓 selon vos préférences d'impression.
    - Les grilles sont nommées et numérotées par ordre de parution.
-+ Les solutions sont uploadées dans le dossier ***SOLUTIONS*** un à deux mois après la publication de la grille. Elle sont également numérotées par ordre de parution.
-+ Avant la sortie des solutions, tente de gagner un petit quelque chose en envoyant le mot mystère (et le thème mystère le cas échéant) à `motflechetroprigolo[at]gmail[dot]com`. Merci de bien respecter les consignes ([voir plus bas](#loterie)).
++ Les solutions sont uploadées dans le dossier ***SOLUTIONS*** un à deux mois après la publication de la grille. Elle suivent la même numérotation.
++ Avant la sortie des solutions, tente de gagner un petit quelque chose en m'envoyant ta réponse à `motflechetroprigolo[at]gmail[dot]com`. Merci de bien respecter les consignes ([voir plus bas](#loterie)).
 + Pour tout commentaire/remarque/contestation/injure/compliment, merci d'envoyer vos réclamations directement par mail à `motflechetroprigolo[at]gmail[dot]com` avec en sujet la mention **FEEDBACK**.
 
 # Sommaire rapide
