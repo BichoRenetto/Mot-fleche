@@ -1,0 +1,29 @@
+\usepackage[top=1cm,bottom=1cm,inner=1.75cm,outer=1.75cm]{geometry}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=black,
+    urlcolor=black
+    }
+
+\usepackage{tikz}
+\usepackage{ifthen}
+\usepackage{xstring} % to extract a character from a string
+
+% Vertical text in the margin
+\usepackage[all]{background}
+\SetBgContents{\footnotesize{BICHO RENETTO}}% Set contents
+\SetBgPosition{current page.west}% Select location
+\SetBgVshift{-0.4cm}% Add vertical shift (results in a shift in x direction due to rotation)
+\SetBgOpacity{0.33}% Select opacity
+\SetBgAngle{90.0}% Select rotation of logo
+\SetBgScale{2.0}% Select scale factor of logo
+\SetBgColor{black} % Select text color
+
+% Custom font
+\usepackage[T1]{fontenc}
+\usepackage[default]{gillius}
+
+% GitHub logo
+\usepackage{fontawesome}

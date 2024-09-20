@@ -1,0 +1,43 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Macros for the mystery word and title display %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Display the mystery word squares + grid number
+\newcommand{\motmystere}[2]{
+ % Arguments
+ %% #1 Grid number
+ %% #2 Mystery word to display (for blank squares use *)
+ 
+ % Set custom square length
+ \def\SqTitle{1.2} ;
+
+ % Draw the first rectangle
+ \node at (0,0)[draw,rounded corners, color = Color3, very thick, minimum width=1cm, minimum height=1cm] {N°#1} ;
+
+ % Store the number of letters in the word
+ \StrLen{#2}[\NBletters];
+
+ % Compute the origin of first square so that the mystery word is centered
+ % 21cm = page width ; 3.5 = margin
+ \pgfmathsetmacro{\StartSq}{(21 - 3.5 - (\NBletters * \SqTitle))/2}
+
+ % Extract the number of characters in the string
+ \foreach \x in {1,2, ..., \NBletters}{ %
+  % Extract the corresponding letter
+  \StrChar{#2}{\x}[\Xletter]; % Extract  the i-th element of the string
+  % Draw the rectangle
+  %% i) Coordinates
+  \pgfmathsetmacro{\SC}{\StartSq + (\x-1)*\SqTitle};
+  \pgfmathsetmacro{\IC}{\StartSq + 0.35 + (\x-1)*\SqTitle}; % numbers in the corners
+
+  % Draw empty if *
+  \ifthenelse{\equal{\Xletter}{*}}{%
+   \node at (\SC,0)[draw, fill = Color1, very thick, minimum width=1cm, minimum height=1cm, opacity = .5] {};
+   \node at (\IC,0.35)[]{\scriptsize{\x}};
+  }{ % else print the letter
+   \node at (\SC,0)[draw, fill = Color1, very thick, minimum width=1cm, minimum height=1cm, opacity = .5] {};
+   \node at (\SC,0)[draw, minimum width=1cm, minimum height=1cm] {\large{\MakeUppercase{\Xletter}}};
+   \node at (\IC,0.35)[]{\scriptsize{\x}};
+   }
+  }
+}

@@ -1,0 +1,57 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Macros for the grid display and the coloring of the cells %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Set a color value between Color1 and Color2 given the location of the cell
+% Useless if you set Color1 = Color2 in the main document
+\newcommand{\setcustomcolor}[2]{%
+ % Arguments:
+ %% #1 x-coordinate of the grid cell (left to right)
+ %% #2 y-coordinate of the grid cell (up to bottom)
+ \pgfmathtruncatemacro{\sum}{#1 + #2} % Calculate the sum
+ \ifthenelse{\isodd{\sum}}{%
+   \colorlet{customcolor}{Color1} % If the sum is odd, set customcolor to Color1
+ }{%
+   \colorlet{customcolor}{Color2} % If the sum is even, set customcolor to Color2
+ }%
+}
+
+% Color a cell given its location and display a letter inside it
+\newcommand{\fillcell}[3]{
+ % Arguments:
+ %% #1 x-coordinate of the grid cell (left to right)
+ %% #2 y-coordinate of the grid cell (up to bottom)
+ %% #3 a letter or blank space
+ \setcustomcolor{#1}{#2} ;
+ \pgfmathsetmacro{\xcoord}{(#1-1)*\SquareL};
+ \pgfmathsetmacro{\ycoord}{-(#2-1)*\SquareL};
+ \node (rect) at (\xcoord,\ycoord) % negative so that it follows page lecture
+ [draw, thick, fill = customcolor, opacity = .5, minimum width=\SquareL cm,minimum height=\SquareL cm] {};
+ \node (rect) at (\xcoord,\ycoord) % negative so that it follows page lecture
+ [draw, thick, minimum width=\SquareL cm,minimum height=\SquareL cm] {\huge #3};
+}
+
+% Display an empty colored grid with a given size
+\newcommand{\gridsetup}[2]{
+ % Arguments:
+ %% #1 number of cells on the horizontal axis
+ %% #2 number of cells on the vertical axis
+
+ % Math setup 
+ \pgfmathsetmacro{\x}{#1}
+ \pgfmathsetmacro{\y}{#2}
+ 
+ % Generate the grid
+ \foreach \x in {1,2, ..., \x}
+  { \foreach \y in {1,2, ..., \y}{
+   % Compute the location of the cell
+   \pgfmathsetmacro{\countcell}{\y + (\x-1)*16}; 
+   % convert number as integer
+   \pgfmathtruncatemacro{\countcellint}{\countcell}; 
+   % Extract the i-th element of the string
+   \StrChar{\solgrid}{\countcellint}[\letter]; 
+   % Fill the grid
+   \fillcell{\x}{\y}{\letter}; 
+   }
+  }
+}

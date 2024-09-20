@@ -1,0 +1,18 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Macros for the placement of the clues for the mystery word %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\setclue}[3]{
+ % Arguments:
+ %% #1 x-coordinate of the grid cell (left to right)
+ %% #2 y-coordinate of the grid cell (up to bottom)
+ %% #3 clue number
+ % Define the x coordinates
+ \pgfmathsetmacro{\xcoord}{(#1 -1  + 0.4 )*\SquareL};
+
+ % Define the y-coordinates
+ \pgfmathsetmacro{\ycoord}{(-#2 +2 - 0.65)*\SquareL};
+
+ % Draw the node
+ \node at (\xcoord, \ycoord)[] {\scriptsize{#3}};
+}

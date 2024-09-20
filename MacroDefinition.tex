@@ -1,0 +1,225 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Macros for the definition cells setup and display %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% ~ Tikz setup
+% Arrow shape
+\usetikzlibrary{shapes, arrows.meta, positioning}
+
+\def\ArrowWidth{0.75} % Arrow line width
+% PS: 1pt = 0.03515 cm
+\tikzstyle{roundarrow} = [ %
+line width = \ArrowWidth pt, %
+-{Triangle[width = 4pt, %
+          length = 4pt, %
+          round, %
+          line width=1pt %
+          ]}, %
+color = black]
+
+% ~ Custom functions
+% Single definition display
+\newcommand{\singledef}[4]{
+ % Arguments:
+ %% #1 x-coordinate of the grid cell (left to right)
+ %% #2 y-coordinate of the grid cell (up to bottom)
+ %% #3 orientation of the arrow {right ; down ; rightdown ; downright ; rightlow}
+ %% #4 text of the definition
+
+ % General setup
+ \pgfmathsetmacro{\xcoord}{(#1-1)*\SquareL};
+ \pgfmathsetmacro{\ycoord}{-(#2-1)*\SquareL};
+ % White background
+ \node (rect) at (\xcoord,\ycoord)[
+  draw,
+  thick,
+  fill = white, %
+  minimum width=\SquareL cm, %
+  minimum height=\SquareL cm, %
+  align = center] {};
+
+ % Stack a smaller layer with text 
+ \pgfmathsetmacro{\SquareT}{(0.925*\SquareL};
+
+ \node (text) at (\xcoord,\ycoord)[
+  minimum width=\SquareL cm, %
+  minimum height=\SquareL cm, %
+  inner sep=0pt] {%
+   \begin{minipage}[c][\SquareT cm][c]{\SquareT cm}
+   \centering
+   \fontsize{4.75}{4.5pt}\selectfont \MakeUppercase{#4}
+   \end{minipage}
+  };
+
+  % Arrow
+  \ifthenelse{\equal{#3}{right}}{%
+   %Right arrow
+   \pgfmathsetmacro{\xarrow}{\xcoord + \SquareL/2 + 0.3}
+   \pgfmathsetmacro{\yarrow}{\ycoord}
+   \draw[roundarrow] (rect.east) -- (\xarrow, \yarrow);}{%
+   % Down arrow
+   \ifthenelse{\equal{#3}{down}}{
+    \pgfmathsetmacro{\xarrow}{\xcoord}
+    \pgfmathsetmacro{\yarrow}{\ycoord - \SquareL/2 - 0.3}
+    \draw[roundarrow] (rect.south) -- (\xarrow, \yarrow);
+   }{%
+    % Down then right arrow
+    \ifthenelse{\equal{#3}{downright}}{
+     % First part of the arrow
+     % Need to take into account half the width of the arrow
+      \pgfmathsetmacro{\yborder}{(\SquareL + \ArrowWidth * 0.03515)/2}
+
+      \pgfmathsetmacro{\xarrow}{\xcoord - \yborder*tan(270-235)}
+      \pgfmathsetmacro{\yarrow}{\ycoord - \SquareL/2 -0.2}
+
+      \draw [line width = \ArrowWidth pt] (rect.235) -- (\xarrow, \yarrow) -- (\xarrow+0.1, \yarrow) ;
+
+      \draw[roundarrow](\xarrow,\yarrow) -- (\xarrow +0.3, \yarrow);
+     }{
+     % Right then down arrow
+     \ifthenelse{\equal{#3}{rightdown}}{
+      % First part of the arrow
+      % Need to take into account half the width of the arrow
+      \pgfmathsetmacro{\xborder}{(\SquareL + \ArrowWidth * 0.03515)/2}
+
+      \pgfmathsetmacro{\xarrow}{\xcoord + \SquareL/2 + 0.2}
+      \pgfmathsetmacro{\yarrow}{
+      \ycoord + \xborder*tan(35)}
+
+      \draw [line width = \ArrowWidth pt] (rect.35) -- (\xarrow, \yarrow) -- (\xarrow, \yarrow-0.1) ;
+
+      \draw[roundarrow](\xarrow,\yarrow) -- (\xarrow, \yarrow -0.3);
+    }{
+      \ifthenelse{\equal{#3}{rightlow}}{%
+       %Right arrow (bottom side of the cell)
+       \pgfmathsetmacro{\xborder}{(\SquareL + \ArrowWidth * 0.03515)/2}
+
+       \pgfmathsetmacro{\xarrow}{\xcoord + \SquareL/2 + 0.3}
+       \pgfmathsetmacro{\yarrow}{\ycoord + \xborder*tan(330)}
+       \draw[roundarrow] (rect.330) -- (\xarrow, \yarrow);
+       }{
+       % Return nothing
+      }
+     }
+    }
+   }
+  }
+}
+
+% Double definition display
+\newcommand{\doubledef}[6]{
+ % Arguments:
+ %% #1 x-coordinate of the grid cell (left to right)
+ %% #2 y-coordinate of the grid cell (up to bottom)
+ %% #3 orientation of the first arrow {rightup ; rightlow ; down ; rightdown ; downright ; leftdown}
+ %% #4 text for the definition of the upper part of the cell
+ %% #5 orientation of the second arrow {rightup ; rightlow ; down ; rightdown ; downright ; leftdown}
+ %% #6 text for the definition of the lower part of the cell
+
+ % General setup
+ \pgfmathsetmacro{\xcoord}{(#1-1)*\SquareL};
+ \pgfmathsetmacro{\ycoord}{-(#2-1)*\SquareL};
+ % White background
+ \node (rect) at (\xcoord,\ycoord)[
+  draw,
+  thick,
+  fill = white, %
+  minimum width=\SquareL cm, %
+  minimum height=\SquareL cm, %
+  align = center] {};
+
+ % Stack a smaller layer with text 
+ \pgfmathsetmacro{\SquareT}{(0.925*\SquareL};
+
+ \node (text) at (\xcoord,\ycoord)[
+  minimum width=\SquareL cm, %
+  minimum height=\SquareL cm, %
+  inner sep=0pt] {%
+   \begin{minipage}[c][\SquareT cm][c]{\SquareT cm}
+    \begin{center}
+
+     \fontsize{4.75}{4.5pt}\selectfont \MakeUppercase{#4}
+     \rule[0.333\baselineskip]{0.9\textwidth}{0.5pt}
+
+     \fontsize{4.75}{4.5pt}\selectfont\MakeUppercase{#6}
+    \end{center}
+   \end{minipage}
+  };
+
+  % Arrows
+  \ifthenelse{\equal{#3}{rightup} \or \equal{#5}{rightup}}{%
+   % Right arrow (upper side of the cell)
+   % Need to take into account half the width of the arrow
+   \pgfmathsetmacro{\xborder}{(\SquareL + \ArrowWidth * 0.03515)/2}
+
+   \pgfmathsetmacro{\xarrow}{\xcoord + \SquareL/2 + 0.3}
+   \pgfmathsetmacro{\yarrow}{\ycoord + \xborder*tan(30)}
+
+   \draw[roundarrow] (rect.30) -- (\xarrow, \yarrow);
+  }{
+   % Return nothing
+  }
+  \ifthenelse{\equal{#3}{rightlow} \or \equal{#5}{rightlow}}{%
+   %Right arrow (lower side of the cell)
+   \pgfmathsetmacro{\xborder}{(\SquareL + \ArrowWidth * 0.03515)/2}
+
+   \pgfmathsetmacro{\xarrow}{\xcoord + \SquareL/2 + 0.3}
+   \pgfmathsetmacro{\yarrow}{\ycoord + \xborder*tan(330)}
+   \draw[roundarrow] (rect.330) -- (\xarrow, \yarrow); 
+  }{
+   % Return nothing
+  }
+  % Down arrow
+  \ifthenelse{\equal{#3}{down} \or \equal{#5}{down}}{
+   \pgfmathsetmacro{\xarrow}{\xcoord}
+   \pgfmathsetmacro{\yarrow}{\ycoord - \SquareL/2 - 0.3}
+   \draw[roundarrow] (rect.south) -- (\xarrow, \yarrow);
+  }{
+   % Return nothing
+  }
+  % Down then right arrow
+  \ifthenelse{\equal{#3}{downright} \or \equal{#5}{downright}}{
+   % First part of the arrow
+   % Need to take into account half the width of the arrow
+   \pgfmathsetmacro{\yborder}{(\SquareL + \ArrowWidth * 0.03515)/2}
+
+   \pgfmathsetmacro{\xarrow}{\xcoord - \yborder*tan(270-235)}
+   \pgfmathsetmacro{\yarrow}{\ycoord - \SquareL/2 -0.2}
+
+   \draw [line width = \ArrowWidth pt] (rect.235) -- (\xarrow, \yarrow) -- (\xarrow+0.1, \yarrow) ;
+
+   \draw[roundarrow](\xarrow,\yarrow) -- (\xarrow +0.3, \yarrow);
+  }{
+   % Return nothing
+  }
+  % Right then down arrow
+  \ifthenelse{\equal{#3}{rightdown} \or \equal{#5}{rightdown}}{
+   % First part of the arrow
+   % Need to take into account half the width of the arrow
+   \pgfmathsetmacro{\xborder}{(\SquareL + \ArrowWidth * 0.03515)/2}
+
+   \pgfmathsetmacro{\xarrow}{\xcoord + \SquareL/2 + 0.2}
+   \pgfmathsetmacro{\yarrow}{\ycoord + \xborder*tan(35)}
+
+   \draw [line width = \ArrowWidth pt] (rect.35) -- (\xarrow, \yarrow) -- (\xarrow, \yarrow-0.1) ;
+
+   \draw[roundarrow](\xarrow,\yarrow) -- (\xarrow, \yarrow -0.3);
+  }{
+   % Return nothing
+  }
+  % Left then down arrow
+  \ifthenelse{\equal{#3}{leftdown} \or \equal{#5}{leftdown}}{
+   % First part of the arrow
+   % Need to take into account half the width of the arrow
+   \pgfmathsetmacro{\xborder}{(\SquareL + \ArrowWidth * 0.03515)/2}
+
+   \pgfmathsetmacro{\xarrow}{\xcoord - \SquareL/2 - 0.2}
+   \pgfmathsetmacro{\yarrow}{\ycoord - \xborder*tan(190)}
+
+   \draw [line width = \ArrowWidth pt] (rect.190) -- (\xarrow, \yarrow) -- (\xarrow, \yarrow-0.1) ;
+
+   \draw[roundarrow](\xarrow,\yarrow) -- (\xarrow, \yarrow -0.3);
+  }{
+   % Return nothing
+  }
+}

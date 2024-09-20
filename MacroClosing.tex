@@ -1,0 +1,24 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Macros for the closing words & annoucement of the mystery theme %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Closing words
+\newcommand{\closingwords}[1]{%
+% Arguments:
+%% #1 date to add to the sentence displayed (free format)
+ Pour participer au tirage au sort et tenter de gagner un petit quelque chose, n'oublie pas de m'envoyer ta réponse avant le #1 ! Tu peux retrouver toutes les informations sur ma page github \href{https://github.com/BichoRenetto/Mot-fleche}{\faicon{github}}.
+}
+
+% Annoucement for the mystery theme
+%% Warning sign figure
+%% REF : [https://tex.stackexchange.com/questions/159669/how-to-print-a-warning-sign-triangle-with-exclamation-point]
+\newcommand\warning{%
+ % No Arguments
+ \makebox[1.4em][c]{%
+ \makebox[0pt][c]{\raisebox{.1em}{\small!}}%
+ \makebox[0pt][c]{\color{red}\Large$\bigtriangleup$}}}%
+%% Announcement
+\newcommand{\mystery}{
+ % No Arguments
+ \warning~Un thème mystère s'est glissé dans cette grille ! Sauras-tu le retrouver ?
+}
