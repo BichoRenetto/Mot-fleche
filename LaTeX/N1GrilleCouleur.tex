@@ -1,0 +1,183 @@
+\documentclass[a4paper]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Packages settings %%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{./support/CustomPackages.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%% Custom Macro %%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Macro for the grid filling
+\input{./support/MacroCouleurGrille.tex}
+
+% Macro for the definition cells
+\input{./support/MacroDefinition.tex}
+
+% Macro for the mystery word + Number
+\input{./support/MacroHead.tex}
+
+% Macro for closing words
+\input{./support/MacroClosing.tex}
+
+% Macro for clue location
+\input{./support/MacroClues.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Document settings %%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Define default color
+\usepackage{xcolor}
+\definecolor{Color1}{HTML}{A4F4EE}
+\definecolor{Color2}{HTML}{A4F4EE}
+\definecolor{Color3}{HTML}{65B891}
+
+%% Square size
+\def\SquareL{1.35} % Length of the square
+
+%% Solution
+%% Warning : on remplit en descendant colonnes par colonnes
+\def\solgrid{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%% Main document %%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Main document
+\begin{document}
+ % Clear the page numbering
+ \thispagestyle{empty}
+
+ \begin{tikzpicture}
+  \motmystere{1}{*********}
+ \end{tikzpicture}
+
+ \smallskip
+ \noindent
+ Plante halophyte très courante du littoral français, elle se consomme couramment en pickles ou en salade. Elle est encore utilisée pour fabriquer du savon, notamment le savon d'Alep. De couleur généralement vert sombre, elle peut prendre des nuances rouges à la fin de l'été. Dans le calendrier républicain, on la fêtait tous les ans le 12ème jour du mois de thermidor.
+
+ \vspace{0.5cm}
+ \centering
+ \begin{tikzpicture}
+  % Create an empty grid
+  \gridsetup{13}{16}
+
+  % Definitions' cells
+  % Column 1
+   {
+    \doubledef{1}{1}{downright}{Berthe au grand pied fût la plus connue}{rightdown}{Rater son coup}
+    \doubledef{1}{3}{rightup}{Soleil des pharaons}{downright}{On les franchit quand ils se dilatent}
+    \doubledef{1}{5}{rightup}{On en trouve 2 ou 3 en Normandie}{downright}{Essayai, à l'odorat ?}
+    \doubledef{1}{7}{rightup}{Il plombe l'ambiance au congrès ...}{downright}{Balais}
+    \doubledef{1}{9}{rightup}{Branché}{downright}{Au coeur de la dépression}
+    \doubledef{1}{11}{rightup}{Gaz lourd}{downright}{Les fans après un concert}
+    \singledef{1}{13}{downright}{On ne manque pas d'air en son absence ...}
+    \singledef{1}{15}{downright}{Bière à fermentation haute}
+   }
+
+   % Column 2
+   {
+    \singledef{2}{15}{right}{Identités numériques}
+   }
+
+   % Column 3
+   {
+    \doubledef{3}{1}{rightdown}{Théâtre japonais}{down}{Il murmumre à l'oreille des chevaux}
+    \singledef{3}{13}{down}{On ne trouve pas cette borne qu'au coin des rues}
+   }
+
+   % Column 4
+   {
+    \doubledef{4}{3}{rightup}{Mises en bouche}{down}{Ils invitent à la sieste}
+    \doubledef{4}{9}{rightup}{Attaque au Volleyball, acéré}{down}{Lacs calédoniens}
+    \singledef{4}{16}{right}{Souverains orientaux}
+   }
+
+   % Column 5
+   {
+    \doubledef{5}{1}{rightdown}{Bot mais pas beau}{down}{Déterminant possessif}
+    \doubledef{5}{4}{rightup}{Pratique quand la sonnette ne marche plus}{down}{Petite pression}
+    \singledef{5}{7}{right}{Elles n'assurent pas la descendance}
+    \singledef{5}{8}{right}{Liquideras}
+    \doubledef{5}{10}{rightup}{Support de couvert}{down}{Comme un ver}
+    \doubledef{5}{13}{rightup}{Exclamation de plaisir gustatif}{down}{Enfile}
+   }
+
+   % Column 6
+   {
+    \singledef{6}{11}{down}{Ils pondent des œufs ébènes}
+   }
+
+   % Column 7
+   {
+    \singledef{7}{1}{down}{Crier d'un amour sauvage}
+    \singledef{7}{6}{down}{Le sens de l'écoute}
+    \doubledef{7}{11}{rightup}{Icône de l'Ouest}{down}{On en trouve en quantité dans le quartz}
+    \doubledef{7}{14}{rightup}{Elle a tarit la source}{down}{Affirmation un peu froide ...}
+   }
+
+   % Column 8
+   {
+    \singledef{8}{1}{rightdown}{Amateurs de siestes et de grasses matinées}
+    \doubledef{8}{2}{rightup}{Décorai}{down}{Notions élémentaires}
+    \singledef{8}{12}{down}{La pasión}
+   }
+
+   % Column 9
+   {
+    \singledef{9}{6}{down}{On en compte au moins 9}
+    \singledef{9}{10}{right}{Petit phoque}
+    \doubledef{9}{12}{rightup}{Entre la pulpe et le zeste}{down}{Capitale des rillettes}
+   }
+
+   % Column 10
+   {
+    \singledef{10}{1}{down}{Petite pause bien méritée}
+    \singledef{10}{5}{right}{Service hospitalier pressé ...}
+    \doubledef{10}{6}{rightup}{Fauche}{down}{Délivrez}
+    \singledef{10}{13}{down}{Petit nom pour une grosse pomme}
+    \singledef{10}{16}{right}{Depuis Paris, direction Montpellier}
+   }
+
+   % Column 11
+   {
+    \doubledef{11}{1}{rightdown}{Peu scrupuleux}{down}{Ne manque pas d'assurance}
+    \singledef{11}{7}{right}{Grande taille}
+    \doubledef{11}{9}{rightup}{Petit homme touché par la grâce}{down}{Une colère renversante ...}
+    \doubledef{11}{13}{rightup}{Explication latine}{down}{Osculte à distance depuis la Suisse}
+   }
+
+   % Column 12
+   {
+    \singledef{12}{8}{down}{Requêtes auprès d'instances publiques}
+   }
+
+   % Column 13
+   {
+    \singledef{13}{1}{down}{Nom donné par Dieu à Jacob}
+    \singledef{13}{8}{down}{D'un tapis à texture moelleuse}
+    \singledef{13}{14}{down}{Depuis Paris, direction Marseille}
+   }
+
+   % Clues placement
+   {
+    \setclue{12}{12}{1};
+    \setclue{6}{5}{2};
+    \setclue{3}{4}{3};
+    \setclue{7}{9}{4};
+    \setclue{4}{13}{5};
+    \setclue{8}{15}{6};
+    \setclue{13}{4}{7};
+    \setclue{2}{12}{8};
+    \setclue{7}{4}{9};
+   }
+ \end{tikzpicture}
+
+ \begin{flushleft}
+  \closingwords{30/10/2024}
+ \end{flushleft}
+
+\end{document}
