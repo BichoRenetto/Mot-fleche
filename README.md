@@ -19,7 +19,7 @@ Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des gr
 + [Coin geek](#skunk-pour-les-plus-filous-dentre-vous)
 + [Contact](#-contact)
 
-# 🐸 Version longue
+# 🐸 Informations variées
 
 ### Comment télécharger les grilles vides ?
 Les grilles à compléter se trouvent dans le dossier **GRILLES** et sont numérotées par ordre de parution. Pour une même grille, je propose deux versions identiques en tout point, sinon pour la coloration des cases vides. Elles sont stockées dans les sous dossiers **GRILLES/COULEURS** et **GRILLES/NOIRBLANC**.
@@ -43,11 +43,15 @@ En attendant, si tu es bloqué·e, n'hésite pas à m'envoyer un mail avec en su
 
 Pour l'instant, je me suis fixé une échéance de publication de nouvelles grilles mensuelle ou bimestrielle. Il se peut qu'à l'avenir le rythme de publication varie selon les aléas de mes disponibilités. Dans tous les cas, si vous trouvez que les grilles mettent trop de temps à sortir, vous savez où me contacter !
 
-### Mystère ~~et boule de gomme~~ et tirage au sort
+# :dodo: Mystère ~~et boule de gomme~~ et tirage au sort
+
+### Que sont les mots msytères et le thèmes mystères ?
 
 Pour l'instant le nombre de défintions liées au thème mystère n'est pas précisé dans les grilles. Si à l'avenir vous trouvez dur de trouver le thème mystère je peux préciser ce nombre sur les grilles. Dans tous les cas, vous pouvez me tenir au courant via les **FEEDBACK** par mail.
 
 Explications du principe
+
+### Participation au tirage au sort
 
 Si vous le souhaitez, lorsque vous avez complété une grille avant la parution de la solution, vous pouvez participer à un tirage au sort pour tenter de gagner un petit truc. Pour cela, il vous suffit de :
 + M'envoyer un mail à l'adresse `motflechetroprigolo[at]gmail[dot]com`.
@@ -55,8 +59,14 @@ Si vous le souhaitez, lorsque vous avez complété une grille avant la parution 
    1) Le numéro de la grille sous la forme :arrow_right: **NX**
    2) Suivi de votre réponse au mot mystère :arrow_right: **NX-ABCDE**
    3) *Le cas échéant* suivi de votre réponse au thème mystère :arrow_right: **NX-ABCDE-ZYXWV**
-   4) Par exemple pour la grille **5** dont le mot mystère est **POIREAU** et le thème mystère réfère au **JARDINAGE** ➡️ envoyer **N5-POIREAU-JARDINAGE**
-+ Vous pouvez écrire ce que vous voulez dans le corps du mail, ce ne sera a priori pas pris en compte (mais peut-être lu si rigolo).
++ Attendre le tirage au sort. Le/la gagnant·e sera contacté·e par mail et une mention sera affichée sur cette page.
+
+👨‍🏫: Exemple 1 : En complétant la grille **45**, tu trouves le mot mystère **TOPOLOGIE**. En fin de grille, tu ne trouves aucune mention d'existence d'un thème mystère. Ainsi pour participer au tirage au sort envoie le code **N45-TOPOLOGIE**.
+
+:woman_teacher: Exemple 2 : Tu es maintenant confronté·e à la grille **54**. Tu retrouves rapidement le mot mystère **POIREAU**. Tu peux lire en bas de page une mention précisant l'existence d'un thème mystère caché dans la grille. Après moult refléxions, tu penses que le thème de la grille est le **JARDINAGE**. Ainsi, tu m'envoies **N54-POIREAU-JARDINAGE** pour participer au tirage au sort.
+
+
+### Détails sur le tirage au sort
 
 Gagnant + chances de gagner
 
