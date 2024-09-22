@@ -1,6 +1,6 @@
 # 🐲 Mots fléchés à la sauce Renetto
 
-Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des grilles faîtes maison, de qualité artisanale librement disponible à qui veut bien les remplir. Je fournis également les solutions qui sont publiées un à deux mois après la parution de la grille à compléter. M'inspirant du grand Jujubier ([sa page Facebook pour les plus curieux d'entre vous](https://www.facebook.com/p/Les-mots-fl%C3%A9ch%C3%A9s-de-Jujubier-100078019182517/)), il se peut que certaines définitions se veulent un peu alambiquées, sinon *amusantes*. Pour différentier les définitions classiques de ces définitions au ton plus humoristique, je termine généralement ces dernières par des points de suspension.
+Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des grilles faîtes maison, de qualité artisanale, librement disponible à qui veut bien les remplir. Je fournis également les solutions qui sont publiées un à deux mois après la parution de la grille à compléter. M'inspirant du grand Jujubier ([sa page Facebook pour les plus curieux d'entre vous](https://www.facebook.com/p/Les-mots-fl%C3%A9ch%C3%A9s-de-Jujubier-100078019182517/)), il se peut que certaines définitions se veulent un peu alambiquées, sinon *amusantes*. Pour différentier les définitions classiques de ces définitions au ton plus humoristique, je termine généralement ces dernières par des points de suspension.
 
 >[!NOTE]
 > En cours : grille numéro 1️⃣ - solution & tirage au sort fin octobre 🍂
@@ -10,9 +10,9 @@ Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des gr
 + Les grilles vides sont téléchargeables au format `.pdf` dans le dossier ***GRILLES***. 
    - Vous avez le choix entre les formats 🌈 **COULEUR** 🌈 ou  🦃 **NOIR & BLANC** 🐓 selon vos préférences d'impression.
    - Les grilles sont nommées et numérotées par ordre de parution.
-+ Les solutions sont uploadées dans le dossier ***SOLUTIONS*** un à deux mois après la publication de la grille. Elle suivent la même numérotation.
-+ Avant la sortie des solutions, tente de gagner un petit quelque chose en m'envoyant ta réponse par [mail](#-contact). Merci de bien respecter les consignes d'envoi ([voir plus bas](#loterie)).
-+ Pour tout commentaire/remarque/contestation/injure/compliment, merci d'envoyer vos doléances directement par [mail](#-contact) avec en sujet la mention **FEEDBACK**.
++ Les solutions sont uploadées dans le dossier ***SOLUTIONS*** un à deux mois après la publication de la grille. Elle suivent la même numérotation que pour les grilles.
++ Avant la sortie des solutions, tente de gagner un petit quelque chose en participant au tirage au sort en m'envoyant ta réponse par [mail](#-contact). Merci de bien respecter les consignes d'envoi ([voir plus bas](#loterie)) !
++ Pour tout commentaire/remarque/contestation/injure/compliment, merci d'envoyer tes doléances directement par [mail](#-contact) avec en sujet la mention **FEEDBACK**.
 
 # :shark: Sommaire rapide
 + Mot mystère et tirage au sort
@@ -22,40 +22,43 @@ Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des gr
 # 🐸 Informations variées
 
 ### Comment télécharger les grilles vides ?
-Les grilles à compléter se trouvent dans le dossier **GRILLES** et sont numérotées par ordre de parution. Pour une même grille, je propose deux versions identiques en tout point, sinon pour la coloration des cases vides. Elles sont stockées dans les sous dossiers **GRILLES/COULEURS** et **GRILLES/NOIRBLANC**.
+Les grilles à compléter se trouvent dans le dossier ***GRILLES*** et sont numérotées par ordre de parution. Pour une même grille, je propose deux versions identiques en tout point, sinon pour la coloration des cases vides. Elles sont stockées dans les sous dossiers ***GRILLES/COULEURS*** et ***GRILLES/NOIRBLANC***.
 
-Dans tous les deux cas, les grilles sont fournies sous forme de fichiers `.pdf` **non-éditables**, du moins pour le moment. Je vous conseille donc d'imprimer les grilles de votre côté.
+Dans les deux cas, les grilles sont fournies sous forme de fichiers `.pdf` **non-éditables**, du moins pour le moment. Je vous conseille donc d'imprimer les grilles pour les remplir tranquillement de votre côté.
 
 ⚠️**DISCLAIMER**⚠️ Je n'ai pas encore eu l'occasion de tester l'impression des grilles que ce soit au format couleur ou noir & blanc. Si tu rencontres des difficultés d'impression liées à la mise en page, au choix des couleurs de fond ou pour tout autre raison, n'hésite pas à me le faire savoir pour que je puisse y remédier.
 
 
 ### Pourquoi je ne trouve pas la solution ?
 
-Les solutions seront ajoutées en général 1 à 2 mois après la parution des grilles à compléter dans le dossier **SOLUTIONS**. 
+Les solutions seront ajoutées en général 1 à 2 mois après la parution des grilles à compléter dans le dossier **SOLUTIONS**. Si tu ne trouves pas la solution, c'est que 1) tu cherches trop tôt ou 2) j'ai oublié de publier la solution à temps. Dans le second cas, tu es en droit de me harceler en m'envoyant un mail avec la mention **HONTEUX**.
 
 ### Comment faire si je suis bloqué·e ?
 
-Dans l'éventualité où tu serais bloqué·e durant la complétion de ta grille et que tu souhaites vérifier tes propositions actuelles, je n'ai rien de spécial à te proposer pour apaiser ton mal-être sinon cette photo de [boxer](https://cdn.prod.website-files.com/62178d5c536d9151904f4361/632c606cb8d59694b04b874d_Races-Boxer_uvnxcj.jpg). Je n'ai pas encore eu le temps d'implémenter une interface qui te permettrait de révéler certaines réponses sans dévoiler l'intégralité de la grille et tout divulgâcher 😿. Mais j'y ~~travaille dur~~ réfléchit !
+Dans l'éventualité où tu serais bloqué·e durant la complétion de ta grille et que tu aimerais vérifier tes propositions actuelles, je n'ai rien de spécial à te proposer pour apaiser ton mal-être sinon cette photo de [boxer](https://cdn.prod.website-files.com/62178d5c536d9151904f4361/632c606cb8d59694b04b874d_Races-Boxer_uvnxcj.jpg). Je n'ai pas encore eu le temps d'implémenter une interface qui te permettrait de révéler certaines réponses sans dévoiler l'intégralité de la grille et tout divulgâcher 😿. Mais j'y ~~travaille dur~~ réfléchit !
 
 En attendant, si tu es bloqué·e, n'hésite pas à m'envoyer un mail avec en sujet la mention **HELP** ou à lancer un nouveau sujet de discussion directement sur la page github, peut-être quelqu'un de la commu volera à ta rescousse !
 
 ### À quelle fréquence seront publiées les nouvelles grilles ?
 
-Pour l'instant, je me suis fixé une échéance de publication de nouvelles grilles mensuelle ou bimestrielle. Il se peut qu'à l'avenir le rythme de publication varie selon les aléas de mes disponibilités. Dans tous les cas, si vous trouvez que les grilles mettent trop de temps à sortir, vous savez où me contacter !
+Pour l'instant, je me suis fixé une échéance de publication de nouvelles grilles mensuelle ou bimestrielle. Il se peut qu'à l'avenir le rythme de publication varie selon les aléas de mes disponibilités. Dans tous les cas, si vous trouvez que les grilles mettent trop de temps à sortir, vous savez où et comment me contacter !
 
 # :dodo: Mystère ~~et boule de gomme~~ et tirage au sort
 
-### Que sont les mots msytères et le thèmes mystères ?
-Cela fait plusieurs fois que la mention de mot mystère et thème mystère est apparue, mais que sont-ils vraiment ?
+### Que sont les mots mystères et l'assocation surprise ?
+Peut-être as-tu remarqué en parcourant la grille les mention de mots mystères ou d'assocation suprise. Mais que sont-ils vraiment ?
 
 + Le mot mystère correpond au mot en haut, à droite du numéro de la grille. On peut le retrouver à l'aide des numéros indices présents également dans la grille ou à l'aide du petit paragraphe, entre le mot mystère et la grille, qui donne des informations sur ce mot.
-+ Le thème mystère est lui plus cryptique. Seule une mention précise en bas de page s'il y en a un à trouver ou non. Mais alors quand il est là, que faut-il chercher ?
-   - En premier lieu, le mot et le thème mystère partagent une proximité thématique.
-   - Ensuite
++ L'association surprise est elle, encore plus énigmatique ! Voici quelques informations clées à son sujet :
+   - Toutes les grilles ne présentent pas d'association surprise. Pour savoir si la grille en possède une, cherche une mention en bas de page.
+   - L'association surprise est un groupe thématique partagé entre plusieurs mots (mais pas tous !) de la grille et le mot mystère.
+   - Les définitions des mots en question n'ont pas forcément de lien spécifique entre eux, ce sont bien les mots en tant que tel qui sont associés entre eux.
+   - Ce lien est généralement assez généraliste et *a priori* évident une fois les mots groupés ensemble. 
 
-Pour l'instant le nombre de défintions liées au thème mystère n'est pas précisé dans les grilles. Si à l'avenir vous trouvez dur de trouver le thème mystère je peux préciser ce nombre sur les grilles. Dans tous les cas, vous pouvez me tenir au courant via les **FEEDBACK** par mail.
+Par exemple, en complétant la grille tu te rends compte parmi les réponses de la grille la présence des mots *POITRINE* ; *ROTI* ; *GIGOT* ; *BIFTECK* ; *JAMBON*. Ici, l'association surprise se réfère donc à l'univers de la boucherie.
 
-Explications du principe
+Pour l'instant je ne précise pas dans les grilles le nombre de mots associés entre eux. Dans tous les cas je vais surveiller vos réponses pour voir si les grilles sont trop dures et le cas échéant je me laisse la liberté de modifier mes énoncés. Sinon vous pouvez toujours me tenir au courant via les **FEEDBACK** par [mail](#-contact).
+
 
 ### Participation au tirage au sort
 
@@ -74,9 +77,19 @@ Si vous le souhaitez, lorsque vous avez complété une grille avant la parution 
 
 ### J'ai trouvé le mot mystère mais pas le thème, est-ce grave ?
 
-Gagnant + chances de gagner
+Non, même pour les grilles avec mot mystère et association surprise tu peux uniquement envoyer la réponse au mot mystère pour participer au tirage au sort. 
 
-Le bon déroulement du tirage est sort sera assuré par :technologist: Thomas BÉNÉTEAU à l'intégrité infaillible (jusqu'à preuve du contraire).
+***CEPENDANT*** pour récompenser les filous qui parviennent à trouver l'association surprise, j'accorderai un petit bonus de réprésentativité dans le tirage au sort à ceux qui parviendrai à trouver ce mystérieux thème !
+
+Pour être plus précis, voici comment va s'organiser le tirage au sort pour gagner les petits quelque chose:
+1) La grille ne contient pas d'association surprise :
+   + 
+2) La grille présente en plus une thème caché :
+   + Les personnes qui ne m'envoient que le mot mystère auront un ticket
+   + Les personnes qui m'envoient le mot mystère et le bon thème auront droit à 3 tickets.
+
+
+Le bon déroulement du tirage est sort sera assuré par :technologist: Thomas BÉNÉTEAU dont l'intégrité infaillible n'est plus à prouver.
 
 # :skunk: Pour les plus filous d'entre vous
 
