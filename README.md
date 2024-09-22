@@ -46,6 +46,12 @@ Pour l'instant, je me suis fixé une échéance de publication de nouvelles gril
 # :dodo: Mystère ~~et boule de gomme~~ et tirage au sort
 
 ### Que sont les mots msytères et le thèmes mystères ?
+Cela fait plusieurs fois que la mention de mot mystère et thème mystère est apparue, mais que sont-ils vraiment ?
+
++ Le mot mystère correpond au mot en haut, à droite du numéro de la grille. On peut le retrouver à l'aide des numéros indices présents également dans la grille ou à l'aide du petit paragraphe, entre le mot mystère et la grille, qui donne des informations sur ce mot.
++ Le thème mystère est lui plus cryptique. Seule une mention précise en bas de page s'il y en a un à trouver ou non. Mais alors quand il est là, que faut-il chercher ?
+   - En premier lieu, le mot et le thème mystère partagent une proximité thématique.
+   - Ensuite
 
 Pour l'instant le nombre de défintions liées au thème mystère n'est pas précisé dans les grilles. Si à l'avenir vous trouvez dur de trouver le thème mystère je peux préciser ce nombre sur les grilles. Dans tous les cas, vous pouvez me tenir au courant via les **FEEDBACK** par mail.
 
@@ -66,7 +72,7 @@ Si vous le souhaitez, lorsque vous avez complété une grille avant la parution 
 :woman_teacher: Exemple 2 : Tu es maintenant confronté·e à la grille **54**. Tu retrouves rapidement le mot mystère **POIREAU**. Tu peux lire en bas de page une mention précisant l'existence d'un thème mystère caché dans la grille. Après moult refléxions, tu penses que le thème de la grille est le **JARDINAGE**. Ainsi, tu m'envoies **N54-POIREAU-JARDINAGE** pour participer au tirage au sort.
 
 
-### Détails sur le tirage au sort
+### J'ai trouvé le mot mystère mais pas le thème, est-ce grave ?
 
 Gagnant + chances de gagner
 
