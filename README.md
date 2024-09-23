@@ -55,9 +55,13 @@ Peut-être as-tu remarqué en parcourant la grille les mention de mots mystères
    - Les définitions des mots en question n'ont pas forcément de lien spécifique entre eux, ce sont bien les mots en tant que tel qui sont associés entre eux.
    - Ce lien est généralement assez généraliste et *a priori* évident une fois les mots groupés ensemble. 
 
-Par exemple, en complétant la grille tu te rends compte parmi les réponses de la grille la présence des mots *POITRINE* ; *ROTI* ; *GIGOT* ; *BIFTECK* ; *JAMBON*. Ici, l'association surprise se réfère donc à l'univers de la boucherie.
+Par exemple, en complétant la grille tu te rends compte parmi les réponses la présence des mots :
+1) *POITRINE* ; *ROTI* ; *GIGOT* ; *BIFTECK* ; *JAMBON* :right_arrow: **ASSOCIATION SURPRISE = BOUCHERIE**
+2) *TENNIS* ; *FOOTBALL* ; *ESCRIME* ; *POMPES* ; *SPRINT* :right_arrow: **ASSOCIATION SURPRISE = SPORT**
 
-Pour l'instant je ne précise pas dans les grilles le nombre de mots associés entre eux. Dans tous les cas je vais surveiller vos réponses pour voir si les grilles sont trop dures et le cas échéant je me laisse la liberté de modifier mes énoncés. Sinon vous pouvez toujours me tenir au courant via les **FEEDBACK** par [mail](#-contact).
+Pour l'instant je ne compte pas préciser exactement le nombre de mots (en plus du mot mystère) qui font partie de l'association surprise dans les grilles. Néanmoins, pour qu'un ensemble de mots se réfèrent à une association surprise comptez au minimum 5 mots, en plus du mot mystère. 
+
+Dans tous les cas je vais surveiller vos prochains retour et réponses pour voir si les grilles sont trop dures et le cas échéant je me laisse la liberté de modifier mes énoncés. Sinon vous pouvez toujours me tenir au courant via les **FEEDBACK** par [mail](#-contact).
 
 
 ### Participation au tirage au sort
@@ -74,6 +78,7 @@ Si vous le souhaitez, lorsque vous avez complété une grille avant la parution 
 
 :woman_teacher: Exemple 2 : Tu es maintenant confronté·e à la grille **54**. Tu retrouves rapidement le mot mystère **POIREAU**. Tu peux lire en bas de page une mention précisant l'existence d'un thème mystère caché dans la grille. Après moult refléxions, tu penses que le thème de la grille est le **JARDINAGE**. Ainsi, tu m'envoies **N54-POIREAU-JARDINAGE** pour participer au tirage au sort.
 
+PS : N'essayez pas de spammer avec plusieurs mails différents sinon je vais sévir mais surtout je vais devoir changer les règles de participation et j'ai la flemme !
 
 ### J'ai trouvé le mot mystère mais pas le thème, est-ce grave ?
 
