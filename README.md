@@ -106,11 +106,12 @@ Pour tous mes afficionados de LaTeX (no kink shaming), j'ai mis le template pour
 
 ### Est-t'il possible de connaître la liste des mots admissibles ?
 
-Pour faire court : **non**. Ou du moins pas pour l'instant. Je n'ai pas encore généré assez de grilles pour proposer un index des mots utilisés qui ne dévoilent pas entièrement les réponses. Cependant, je peux vous révéler certains points:
+Pour faire court : **non**. Ou du moins pas pour l'instant. Je n'ai pas encore généré assez de grilles pour proposer un index des mots utilisés qui ne dévoilent pas entièrement toutes les réponses. Cependant, je peux vous révéler certains points:
 + L'ensemble du corpus de la langue française est possible (en particulier, j'ai utilisé la [base de données](http://www.3zsoftware.com/fr/listes.php) contenant l'ensemble des mots admissibles dans les règles du scrabble français).
-+ Les acronymes seront couramment utilisés.
-+ On trouvera régulièrement des mots anglais, espagnols, ou du moins de langue latine.
-+ Dans certains cas, il est possible que la réponse ne soit pas à proprement parlé un mot ou un acronyme ou une onomatopée. Ne vous étonnez pas si vous vous retrouvez à écrire des réponses incongrues du type *nte* ou *apou*, cela peut être tout à fait normal.
++ J'ai régulièrement utilisé [ce site](https://www.listesdemots.net/touslesmots.htm) bien pratique pour chercher des mots.
++ Les acronymes sont couramment utilisés.
++ On trouve régulièrement des mots anglais, espagnols, ou du moins de langue latine.
++ Dans certains cas, il est possible que la réponse ne soit pas à proprement parlé un mot ni un acronyme ou une onomatopée. Ne vous étonnez pas si vous vous retrouvez à écrire des réponses incongrues comme *nte* ou *apou*, cela peut être tout à fait normal.
 
 
 # 🐧 Contact
