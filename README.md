@@ -15,8 +15,8 @@ Bienvenue sur ce dépôt de grilles de mot fléchés. Tu y trouveras ici des gri
 + Pour tout commentaire/remarque/contestation/injure/compliment, merci d'envoyer tes doléances directement par [mail](#-contact) avec en sujet la mention **FEEDBACK**.
 
 # :shark: Sommaire rapide
-+ Foire aux infos
-+ Modalités de participation au tirage au sort
++ [Foire aux infos](#-informations-variées)
++ [Modalités de participation au tirage au sort](#dodo-mystères-et-boule-de-gomme-et-tirage-au-sort)
 + [Coin geek](#skunk-pour-les-plus-filous-dentre-vous)
 + [Contact](#-contact)
 
@@ -44,7 +44,7 @@ En attendant, si tu es bloqué·e, n'hésite pas à m'envoyer un mail avec en su
 
 Pour l'instant, je me suis fixé une échéance de publication de nouvelles grilles mensuelle ou bimestrielle. Il se peut qu'à l'avenir le rythme de publication varie selon les aléas de mes disponibilités. Dans tous les cas, si vous trouvez que les grilles mettent trop de temps à sortir, vous savez où et comment me contacter !
 
-# :dodo: Mystère ~~et boule de gomme~~ et tirage au sort
+# :dodo: Mystères ~~et boule de gomme~~ et tirage au sort
 
 ### Mots mystères et assocation surprise
 
