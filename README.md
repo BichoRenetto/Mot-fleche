@@ -1,6 +1,10 @@
 # 🐲 Mots fléchés à la sauce Renetto
 
-Bienvenue sur ce dépôt de grilles de mot fléchés. Tu y trouveras ici des grilles artisanales faites maison librement téléchargeable à qui veut bien les remplir. Je fournis également les solutions qui sont publiées un à deux mois après la parution de la grille vide. M'inspirant du grand Jujubier ([sa page Facebook pour les plus curieux d'entre vous](https://www.facebook.com/p/Les-mots-fl%C3%A9ch%C3%A9s-de-Jujubier-100078019182517/)), il se peut que certaines définitions se veulent un peu alambiquées, sinon *amusantes*. Pour différentier les définitions classiques de ces définitions au ton plus humoristique, je ponctue ces dernières par des points de suspension. Pour rendre les choses un peu plus ludique (et peut-être pour revendre vos données personnelles au plus offrant ?) j'organise un petit tirage au sort sur la grille en cours pour tenter de gagner un petit cadeau ! 
+Bienvenue sur ce dépôt de grilles de mot fléchés. Tu y trouveras ici des grilles artisanales faites maison librement téléchargeable à qui veut bien les remplir. Je fournis également les solutions qui sont publiées un à deux mois après la parution de la grille vide. 
+
+M'inspirant du grand Jujubier ([sa page Facebook pour les plus curieux d'entre vous](https://www.facebook.com/p/Les-mots-fl%C3%A9ch%C3%A9s-de-Jujubier-100078019182517/)), il se peut que certaines définitions se veulent un peu alambiquées, sinon *amusantes*. Pour différentier les définitions classiques de ces définitions au ton plus humoristique, je ponctue ces dernières par des points de suspension. 
+
+Pour rendre les choses un peu plus ludique (et peut-être pour revendre vos données personnelles au plus offrant ?) j'organise un petit tirage au sort sur la grille en cours pour tenter de gagner un petit cadeau ! 
 
 >[!NOTE]
 > En cours : grille numéro 1️⃣ - solution & tirage au sort fin octobre 🍂
