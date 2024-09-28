@@ -17,7 +17,7 @@ Bienvenue sur ce dépôt de grilles de mot fléchés. Tu y trouveras ici des gri
 # :shark: Sommaire rapide
 + [Foire aux infos](#-informations-variées)
 + [Modalités de participation au tirage au sort](#dodo-mystères-et-boule-de-gomme-et-tirage-au-sort)
-+ [Coin geek](#skunk-pour-les-plus-filous-dentre-vous)
++ [Informations de moindre importance](#skunk-pour-les-plus-filous-dentre-vous)
 + [Contact](#-contact)
 
 # 🐸 Informations variées
