@@ -11,7 +11,7 @@ Bienvenue sur ce dépôt de grilles de mot fléchés. Tu y trouveras ici des gri
    - Vous avez le choix entre les formats 🌈 **COULEUR** 🌈 ou  🦃 **NOIR & BLANC** 🐓 selon vos préférences d'impression.
    - Les grilles sont nommées et numérotées par ordre de parution.
 + Les solutions sont uploadées dans le dossier ***SOLUTIONS*** un à deux mois après la publication de la grille. Elle suivent la même numérotation que pour les grilles.
-+ Avant la sortie des solutions, tente de gagner un petit quelque chose en participant au tirage au sort en m'envoyant ta réponse par [mail](#-contact). Merci de bien respecter les consignes d'envoi ([voir plus bas](#loterie)) !
++ Avant la sortie des solutions, tente de gagner un petit quelque chose en participant au tirage au sort en m'envoyant ta réponse par [mail](#-contact). Merci de bien respecter les consignes d'envoi ([voir plus bas](#dodo-mystères-et-boule-de-gomme-et-tirage-au-sort)) !
 + Pour tout commentaire/remarque/contestation/injure/compliment, merci d'envoyer tes doléances directement par [mail](#-contact) avec en sujet la mention **FEEDBACK**.
 
 # :shark: Sommaire rapide
@@ -55,8 +55,8 @@ Comme tout bon cruciverbiste, j'ai mis un mot mystère à trouver dans chaque gr
 - Ce lien est généralement assez généraliste et devrait être assez évident une fois les mots groupés ensemble. 
 
 Par exemple, en complétant la grille tu remarques parmi les mots de la grille la présence de :
-1) *POITRINE* ; *ROTI* ; *GIGOT* ; *BIFTECK* ; *JAMBON* :right_arrow: **ASSOCIATION SURPRISE = BOUCHERIE**
-2) *TENNIS* ; *FOOTBALL* ; *ESCRIME* ; *POMPES* ; *SPRINT* :right_arrow: **ASSOCIATION SURPRISE = SPORT**
+1) *POITRINE* ; *ROTI* ; *GIGOT* ; *BIFTECK* ; *JAMBON* :arrow_right: **ASSOCIATION SURPRISE = BOUCHERIE**
+2) *TENNIS* ; *FOOTBALL* ; *ESCRIME* ; *POMPES* ; *SPRINT* :arrow_right: **ASSOCIATION SURPRISE = SPORT**
 
 Pour l'instant, je ne compte pas préciser exactement le nombre de mots (en plus du mot mystère) qui font partie de l'association surprise. Néanmoins, pour qu'un ensemble de mots se réfèrent à une association surprise comptez au minimum 5 mots, en plus du mot mystère. 
 
@@ -84,12 +84,12 @@ PS : N'essayez pas de spammer avec plusieurs mails différents sinon je vais fin
 On va distinguer deux cas de figure :
 
 1) C'est une grille classique sans association surprise.
-   - Tu m'envoies la bonne réponse pour le mot mystère :right_arrow: je t'attribue 1 ticket pour le tirage au sort.
-   - Tu m'envoies une mauvaise réponse :right_arrow: je ne t'en attribue aucun ticket.
+   - Tu m'envoies la bonne réponse pour le mot mystère :arrow_right: je t'attribue 1 ticket pour le tirage au sort.
+   - Tu m'envoies une mauvaise réponse :arrow_right: je ne t'en attribue aucun ticket.
 2) Une association surprise s'est glissée dans la grille.
-   - Tu m'envoies la bonne réponse pour le mot mystère **ET** la bonne proposition pour l'association surprise :right_arrow: je t'attribue 3 tickets.
-   - Tu m'envoies la bonne réponse pour le mot mystère mais une mauvaise proposition pour l'association surprise :right_arrow: je t'attribue 1 ticket.
-   - Tu ne m'envoies que des mauvais réponse :right_arrow: je t'attribue 0 ticket
+   - Tu m'envoies la bonne réponse pour le mot mystère **ET** la bonne proposition pour l'association surprise :arrow_right: je t'attribue 3 tickets.
+   - Tu m'envoies la bonne réponse pour le mot mystère mais une mauvaise proposition pour l'association surprise :arrow_right: je t'attribue 1 ticket.
+   - Tu ne m'envoies que des mauvais réponse :arrow_right: je t'attribue 0 ticket
 
 Une fois tous les tickets attribué, je vais tirer au sort le gagnant sur l'ensemble des tickets. Le bon déroulement du tirage est sort sera assuré par :technologist: Bicho RENETTO (en personne) dont l'intégrité infaillible n'est plus à prouver.
 
