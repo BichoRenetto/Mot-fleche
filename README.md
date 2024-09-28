@@ -102,7 +102,7 @@ Avec l'aide de mon fidèle accolyte le chat GPT 🪄, nous avons généré les g
 
 ### Est-il possible de récupérer les fichiers TeX ?
 
-Bien sûr, pour tous mes afficionados de LaTeX (no kink shaming), j'ai mis le template pour la première grille vide dans le dossier **TEX**. Je rajouterai le template pour la grille remplie à la sortie des solutions. 
+Bien sûr, pour tous mes afficionados de LaTeX (no kink shaming), j'ai mis le template pour la première grille vide dans le dossier éponyme **LaTeX**. Je rajouterai le template pour la grille remplie à la sortie de la solution pour vous montrer comment remplir la macro `\solgrid`. 
 
 
 ### Est-t'il possible de connaître la liste des mots admissibles ?
