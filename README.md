@@ -1,6 +1,6 @@
 # 🐲 Mots fléchés à la sauce Renetto
 
-Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des grilles faîtes maison, de qualité artisanale, librement disponible à qui veut bien les remplir. Je fournis également les solutions qui sont publiées un à deux mois après la parution de la grille à compléter. M'inspirant du grand Jujubier ([sa page Facebook pour les plus curieux d'entre vous](https://www.facebook.com/p/Les-mots-fl%C3%A9ch%C3%A9s-de-Jujubier-100078019182517/)), il se peut que certaines définitions se veulent un peu alambiquées, sinon *amusantes*. Pour différentier les définitions classiques de ces définitions au ton plus humoristique, je termine généralement ces dernières par des points de suspension.
+Bienvenue sur ce dépôt de grilles de mot fléchés. Tu y trouveras ici des grilles artisanales faites maison librement téléchargeable à qui veut bien les remplir. Je fournis également les solutions qui sont publiées un à deux mois après la parution de la grille vide. M'inspirant du grand Jujubier ([sa page Facebook pour les plus curieux d'entre vous](https://www.facebook.com/p/Les-mots-fl%C3%A9ch%C3%A9s-de-Jujubier-100078019182517/)), il se peut que certaines définitions se veulent un peu alambiquées, sinon *amusantes*. Pour différentier les définitions classiques de ces définitions au ton plus humoristique, je ponctue ces dernières par des points de suspension. Pour rendre les choses un peu plus ludique (et peut-être pour revendre vos données personnelles au plus offrant ?) j'organise un petit tirage au sort sur la grille en cours pour tenter de gagner un petit cadeau ! 
 
 >[!NOTE]
 > En cours : grille numéro 1️⃣ - solution & tirage au sort fin octobre 🍂
@@ -15,7 +15,8 @@ Bienvenue sur mon dépôt de grilles de mot fléchés. Tu y trouveras ici des gr
 + Pour tout commentaire/remarque/contestation/injure/compliment, merci d'envoyer tes doléances directement par [mail](#-contact) avec en sujet la mention **FEEDBACK**.
 
 # :shark: Sommaire rapide
-+ Mot mystère et tirage au sort
++ Foire aux infos
++ Modalités de participation au tirage au sort
 + [Coin geek](#skunk-pour-les-plus-filous-dentre-vous)
 + [Contact](#-contact)
 
@@ -45,28 +46,26 @@ Pour l'instant, je me suis fixé une échéance de publication de nouvelles gril
 
 # :dodo: Mystère ~~et boule de gomme~~ et tirage au sort
 
-### Que sont les mots mystères et l'assocation surprise ?
-Peut-être as-tu remarqué en parcourant la grille les mention de mots mystères ou d'assocation suprise. Mais que sont-ils vraiment ?
+### Mots mystères et assocation surprise
 
-+ Le mot mystère correpond au mot en haut, à droite du numéro de la grille. On peut le retrouver à l'aide des numéros indices présents également dans la grille ou à l'aide du petit paragraphe, entre le mot mystère et la grille, qui donne des informations sur ce mot.
-+ L'association surprise est elle, encore plus énigmatique ! Voici quelques informations clées à son sujet :
-   - Toutes les grilles ne présentent pas d'association surprise. Pour savoir si la grille en possède une, cherche une mention en bas de page.
-   - L'association surprise est un groupe thématique partagé entre plusieurs mots (mais pas tous !) de la grille et le mot mystère.
-   - Les définitions des mots en question n'ont pas forcément de lien spécifique entre eux, ce sont bien les mots en tant que tel qui sont associés entre eux.
-   - Ce lien est généralement assez généraliste et *a priori* évident une fois les mots groupés ensemble. 
+Comme tout bon cruciverbiste, j'ai mis un mot mystère à trouver dans chaque grille. Pour trouver ce mot, on pourra s'aider d'un petit paragraphe décrivant le mot mystère et des petits nombres dans le coin en haut à droite de certains case de la grille. Cependant, étant un petit malicieux, je me suis laissé la possibilité d'ajouter un soupçon de filouterie dans les grilles. Plus précisemment, pour certaines grilles il sera mentionné en bas de la page la présence d'une association surprise. Mais qu'est-ce me direz-vous ?
 
-Par exemple, en complétant la grille tu te rends compte parmi les réponses la présence des mots :
+- L'association surprise est un groupement thématique reliant plusieurs mots de la grille (mais pas tous !) et le mot mystère.
+- Les définitions des mots en question ne partagent *a priori* rien entre elles.
+- Ce lien est généralement assez généraliste et devrait être assez évident une fois les mots groupés ensemble. 
+
+Par exemple, en complétant la grille tu remarques parmi les mots de la grille la présence de :
 1) *POITRINE* ; *ROTI* ; *GIGOT* ; *BIFTECK* ; *JAMBON* :right_arrow: **ASSOCIATION SURPRISE = BOUCHERIE**
 2) *TENNIS* ; *FOOTBALL* ; *ESCRIME* ; *POMPES* ; *SPRINT* :right_arrow: **ASSOCIATION SURPRISE = SPORT**
 
-Pour l'instant je ne compte pas préciser exactement le nombre de mots (en plus du mot mystère) qui font partie de l'association surprise dans les grilles. Néanmoins, pour qu'un ensemble de mots se réfèrent à une association surprise comptez au minimum 5 mots, en plus du mot mystère. 
+Pour l'instant, je ne compte pas préciser exactement le nombre de mots (en plus du mot mystère) qui font partie de l'association surprise. Néanmoins, pour qu'un ensemble de mots se réfèrent à une association surprise comptez au minimum 5 mots, en plus du mot mystère. 
 
-Dans tous les cas je vais surveiller vos prochains retour et réponses pour voir si les grilles sont trop dures et le cas échéant je me laisse la liberté de modifier mes énoncés. Sinon vous pouvez toujours me tenir au courant via les **FEEDBACK** par [mail](#-contact).
+Dans tous les cas je vais surveiller vos prochains retours et réponses pour voir si les grilles sont trop dures ou si l'association surprise est trop hermétique. Le cas échéant, je me laisse la liberté de modifier mes énoncés voir de changer le concept d'association surprise. Sinon, tu peux toujours me tenir au courant via les **FEEDBACK** par [mail](#-contact).
 
 
 ### Participation au tirage au sort
 
-Si vous le souhaitez, lorsque vous avez complété une grille avant la parution de la solution, vous pouvez participer à un tirage au sort pour tenter de gagner un petit truc. Pour cela, il vous suffit de :
+Si tu le souhaitez, lorsque vous avez complété une grille avant la parution de la solution, vous pouvez participer à un tirage au sort pour tenter de gagner un petit truc. Pour cela, il te suffit de :
 + M'envoyer un mail à l'adresse `motflechetroprigolo[at]gmail[dot]com`.
 + Préciser en sujet du mail votre réponse en respectant la structure suivante :
    1) Le numéro de la grille sous la forme :arrow_right: **NX**
@@ -74,39 +73,41 @@ Si vous le souhaitez, lorsque vous avez complété une grille avant la parution 
    3) *Le cas échéant* suivi de votre réponse au thème mystère :arrow_right: **NX-ABCDE-ZYXWV**
 + Attendre le tirage au sort. Le/la gagnant·e sera contacté·e par mail et une mention sera affichée sur cette page.
 
-👨‍🏫: Exemple 1 : En complétant la grille **45**, tu trouves le mot mystère **TOPOLOGIE**. En fin de grille, tu ne trouves aucune mention d'existence d'un thème mystère. Ainsi pour participer au tirage au sort envoie le code **N45-TOPOLOGIE**.
+👨‍🏫: Exemple 1 : En complétant la grille **45**, tu trouves le mot mystère **TOPOLOGIE**. En fin de grille, tu ne trouves aucune mention sur la présence d'une association surprise. Ainsi, pour participer au tirage au sort envoie le code **N45-TOPOLOGIE**.
 
-:woman_teacher: Exemple 2 : Tu es maintenant confronté·e à la grille **54**. Tu retrouves rapidement le mot mystère **POIREAU**. Tu peux lire en bas de page une mention précisant l'existence d'un thème mystère caché dans la grille. Après moult refléxions, tu penses que le thème de la grille est le **JARDINAGE**. Ainsi, tu m'envoies **N54-POIREAU-JARDINAGE** pour participer au tirage au sort.
+:woman_teacher: Exemple 2 : Tu es maintenant confronté·e à la grille **54**. Tu retrouves rapidement le mot mystère **POIREAU**. Tu peux lire en bas de page une mention stipulant l'existence de l'association surprise cachée dans la grille. Après moult refléxions, tu penses que cette association de mots se réfère au thème du **JARDINAGE**. Ainsi, tu m'envoies **N54-POIREAU-JARDINAGE** pour participer au tirage au sort.
 
-PS : N'essayez pas de spammer avec plusieurs mails différents sinon je vais sévir mais surtout je vais devoir changer les règles de participation et j'ai la flemme !
+PS : N'essayez pas de spammer avec plusieurs mails différents sinon je vais finir par sévir (mais surtout je vais devoir changer les règles de participation et j'ai la flemme ...).
 
-### J'ai trouvé le mot mystère mais pas le thème, est-ce grave ?
+### Comment ça marche le tirage au sort ?
 
-Non, même pour les grilles avec mot mystère et association surprise tu peux uniquement envoyer la réponse au mot mystère pour participer au tirage au sort. 
+On va distinguer deux cas de figure :
 
-***CEPENDANT*** pour récompenser les filous qui parviennent à trouver l'association surprise, j'accorderai un petit bonus de réprésentativité dans le tirage au sort à ceux qui parviendrai à trouver ce mystérieux thème !
+1) C'est une grille classique sans association surprise.
+   - Tu m'envoies la bonne réponse pour le mot mystère :right_arrow: je t'attribue 1 ticket pour le tirage au sort.
+   - Tu m'envoies une mauvaise réponse :right_arrow: je ne t'en attribue aucun ticket.
+2) Une association surprise s'est glissée dans la grille.
+   - Tu m'envoies la bonne réponse pour le mot mystère **ET** la bonne proposition pour l'association surprise :right_arrow: je t'attribue 3 tickets.
+   - Tu m'envoies la bonne réponse pour le mot mystère mais une mauvaise proposition pour l'association surprise :right_arrow: je t'attribue 1 ticket.
+   - Tu ne m'envoies que des mauvais réponse :right_arrow: je t'attribue 0 ticket
 
-Pour être plus précis, voici comment va s'organiser le tirage au sort pour gagner les petits quelque chose:
-1) La grille ne contient pas d'association surprise :
-   + 
-2) La grille présente en plus une thème caché :
-   + Les personnes qui ne m'envoient que le mot mystère auront un ticket
-   + Les personnes qui m'envoient le mot mystère et le bon thème auront droit à 3 tickets.
-
-
-Le bon déroulement du tirage est sort sera assuré par :technologist: Thomas BÉNÉTEAU dont l'intégrité infaillible n'est plus à prouver.
+Une fois tous les tickets attribué, je vais tirer au sort le gagnant sur l'ensemble des tickets. Le bon déroulement du tirage est sort sera assuré par :technologist: Bicho RENETTO (en personne) dont l'intégrité infaillible n'est plus à prouver.
 
 # :skunk: Pour les plus filous d'entre vous
 
-### Have fun with the TeX templates
+### Comment ai-je généré les grilles ?
 
-Pour tous mes afficionados de LaTeX (no kink shaming), j'ai mis le template pour la première grille dans le dossier **TEX**. Vous pouvez évidemment le récupérez et vous amusez chez vous à générer de nouvelles grilles. Les codes ont été générées par votre humble serviteur en collaboration avec mon bon ami chatGPT 🪄.
+Avec l'aide de mon fidèle accolyte le chat GPT 🪄, nous avons généré les grilles sous TeX.
 
-**AJOUTEZ LICENSE CREATIVE**
+
+### Est-il possible de récupérer les fichiers TeX ?
+
+Bien sûr, pour tous mes afficionados de LaTeX (no kink shaming), j'ai mis le template pour la première grille vide dans le dossier **TEX**. Je rajouterai le template pour la grille remplie à la sortie des solutions. 
+
 
 ### Est-t'il possible de connaître la liste des mots admissibles ?
 
-Pour faire court : **non**. Ou du moins pas pour l'instant. Je n'ai pas encore généré assez de grilles pour proposer un index des mots utilisés qui ne dévoilent pas entièrement toutes les réponses. Cependant, je peux vous révéler certains points:
+Pour faire court : **non**. Ou du moins pas pour l'instant. Je n'ai pas encore généré assez de grilles pour proposer un index des mots utilisés qui ne dévoilent pas entièrement toutes les réponses. Cependant, voici quelques conseils qui pourraient t'être utile :
 + L'ensemble du corpus de la langue française est possible (en particulier, j'ai utilisé la [base de données](http://www.3zsoftware.com/fr/listes.php) contenant l'ensemble des mots admissibles dans les règles du scrabble français).
 + J'ai régulièrement utilisé [ce site](https://www.listesdemots.net/touslesmots.htm) bien pratique pour chercher des mots.
 + Les acronymes sont couramment utilisés.
