@@ -85,7 +85,7 @@ On va distinguer deux cas de figure :
 
 1) C'est une grille classique sans association surprise.
    - Tu m'envoies la bonne réponse pour le mot mystère :arrow_right: je t'attribue 1 ticket pour le tirage au sort.
-   - Tu m'envoies une mauvaise réponse :arrow_right: je ne t'en attribue aucun ticket.
+   - Tu m'envoies une mauvaise réponse :arrow_right: je ne t'attribue aucun ticket.
 2) Une association surprise s'est glissée dans la grille.
    - Tu m'envoies la bonne réponse pour le mot mystère **ET** la bonne proposition pour l'association surprise :arrow_right: je t'attribue 3 tickets.
    - Tu m'envoies la bonne réponse pour le mot mystère mais une mauvaise proposition pour l'association surprise :arrow_right: je t'attribue 1 ticket.
