@@ -116,6 +116,7 @@ Pour faire court : **non**. Ou du moins pas pour l'instant. Je n'ai pas encore g
 + J'ai régulièrement utilisé [ce site](https://www.listesdemots.net/touslesmots.htm) bien pratique pour chercher des mots.
 + Les acronymes sont couramment utilisés.
 + On trouve régulièrement des mots anglais, espagnols, ou du moins de langue latine.
++ Parfois, la réponse se lit dans l'autre sens (de gauche à droite ou de bas en haut).
 + Dans certains cas, il est possible que la réponse ne soit pas à proprement parlé un mot ni un acronyme ou une onomatopée. Ne vous étonnez pas si vous vous retrouvez à écrire des réponses incongrues comme *nte* ou *apou*, cela peut être tout à fait normal.
 
 
