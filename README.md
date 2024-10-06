@@ -124,10 +124,10 @@ Pour faire court : **non**. Ou du moins pas pour l'instant. Je n'ai pas encore g
 📫 `motflechetroprigolo[at]gmail[dot]com`
 
 🗑️ Pour traiter au mieux ta requête, merci de préciser tes intentions en sujet de ton mail :
-+ **FEEDBACK** pour tout commentaire (constructif ou non).
++ **FEEDBACK::** pour tout commentaire (constructif ou non).
 + **NX-ABCDE(-ZYXWV)** pour participer aux tirages au sort.
-+ **HELP** en cas de problème durant la complétion de la grille.
-+ **HONTEUX** pour toute faute particulièrement infamante de ma part.
++ **HELP::** en cas de problème durant la complétion de la grille.
++ **HONTEUX::** pour toute faute particulièrement infamante de ma part.
 
 🪤 Pour tenter de gagner un petit quelque chose, n'oubliez pas de m'envoyer vos réponses pour participer au tirage au sort ([cf plus haut](#loterie)).
 
