@@ -16,7 +16,7 @@ Pour rendre les choses un peu plus ludique (et peut-être pour revendre vos donn
    - Les grilles sont nommées et numérotées par ordre de parution.
 + Les solutions sont uploadées dans le dossier ***SOLUTIONS*** un à deux mois après la publication de la grille. Elle suivent la même numérotation que pour les grilles.
 + Avant la sortie des solutions, tente de gagner un petit quelque chose en participant au tirage au sort en m'envoyant ta réponse par [mail](#-contact). Merci de bien respecter les consignes d'envoi ([voir plus bas](#dodo-mystères-et-boule-de-gomme-et-tirage-au-sort)) !
-+ Pour tout commentaire/remarque/contestation/injure/compliment, merci d'envoyer tes doléances directement par [mail](#-contact) avec en sujet la mention **FEEDBACK**.
++ Pour tout commentaire/remarque/contestation/injure/compliment, merci d'envoyer tes doléances directement par [mail](#-contact) avec en sujet la mention **FEEDBACK::**.
 
 # :shark: Sommaire rapide
 + [Foire aux infos](#-informations-variées)
@@ -36,7 +36,7 @@ Dans les deux cas, les grilles sont fournies sous forme de fichiers `.pdf` **non
 
 ### Pourquoi je ne trouve pas la solution ?
 
-Les solutions seront ajoutées en général 1 à 2 mois après la parution des grilles à compléter dans le dossier **SOLUTIONS**. Si tu ne trouves pas la solution, c'est que 1) tu cherches trop tôt ou 2) j'ai oublié de publier la solution à temps. Dans le second cas, tu es en droit de me harceler en m'envoyant un mail avec la mention **HONTEUX**.
+Les solutions seront ajoutées en général 1 à 2 mois après la parution des grilles à compléter dans le dossier **SOLUTIONS**. Si tu ne trouves pas la solution, c'est que 1) tu cherches trop tôt ou 2) j'ai oublié de publier la solution à temps. Dans le second cas, tu es en droit de me harceler en m'envoyant un mail avec la mention **HONTEUX::**.
 
 ### Comment faire si je suis bloqué·e ?
 
@@ -64,7 +64,7 @@ Par exemple, en complétant la grille tu remarques parmi les réponses la prése
 
 Pour l'instant, je ne compte pas préciser exactement le nombre de mots (en plus du mot mystère) qui font partie de l'association surprise. Néanmoins, pour qu'un ensemble de mots se réfèrent à une association surprise comptez au minimum 5 mots, en plus du mot mystère. 
 
-Dans tous les cas je vais surveiller vos prochains retours et réponses pour voir si les grilles sont trop dures ou si le concept de l'association surprise est trop hermétique. Le cas échéant, je me laisse la liberté de modifier mes énoncés voir de changer cette notion. Sinon, tu peux toujours me tenir au courant via les **FEEDBACK** par [mail](#-contact).
+Dans tous les cas je vais surveiller vos prochains retours et réponses pour voir si les grilles sont trop dures ou si le concept de l'association surprise est trop hermétique. Le cas échéant, je me laisse la liberté de modifier mes énoncés voir de changer cette notion. Sinon, tu peux toujours me tenir au courant via les **FEEDBACK::** par [mail](#-contact).
 
 
 ### Participation au tirage au sort
